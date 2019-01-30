@@ -1,0 +1,6 @@
+framework module Pods_PrefixTests {
+  umbrella header "Pods-PrefixTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

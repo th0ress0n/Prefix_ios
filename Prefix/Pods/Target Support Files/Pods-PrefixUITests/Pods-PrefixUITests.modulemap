@@ -1,0 +1,6 @@
+framework module Pods_PrefixUITests {
+  umbrella header "Pods-PrefixUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
