@@ -7,6 +7,12 @@ target 'Prefix' do
 
   # Pods for Prefix
   pod 'Firebase/Core'
+  pod 'Firebase/Functions'
+  pod 'Firebase/Database'
+  pod 'Firebase/AdMob'
+  pod 'Firebase/Auth'
+  pod 'Fabric'
+  pod 'Crashlytics'
 
   target 'PrefixTests' do
     inherit! :search_paths
