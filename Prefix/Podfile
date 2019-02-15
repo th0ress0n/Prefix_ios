@@ -13,6 +13,7 @@ target 'Prefix' do
   pod 'Firebase/Auth'
   pod 'Fabric'
   pod 'Crashlytics'
+  pod 'SwiftyJSON', '~> 4.0'
 
   target 'PrefixTests' do
     inherit! :search_paths

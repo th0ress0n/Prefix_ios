@@ -7,3 +7,19 @@
 //
 
 import Foundation
+
+
+struct Constants {
+    static let feed = ""
+    
+    struct Strings {
+        static let appName = "Prefix"
+    }
+    
+    struct DB {
+        static let dbPath = "https://prefix-ios.firebaseio.com/"
+        static let rootnode = "prefix-ios"
+        static let subnode = "dictionary"
+    }
+    
+}

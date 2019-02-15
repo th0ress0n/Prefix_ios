@@ -9,6 +9,7 @@
 import UIKit
 import Firebase
 import FirebaseFunctions
+import SwiftyJSON
 
 class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataSource {
     
@@ -24,52 +25,70 @@ class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataS
         super.viewDidLoad()
         print("HomeViewController.swift - viewDidLoad")
         
-//        ref = Database.database().reference()
-//
-//        let recentPostsQuery = (ref?.child("dictionary").queryLimited(toFirst: 100))!
-
-        
-//        print("recentPostsQuery --> ",recentPostsQuery)
-        
-        
-//        ref?.child("dictionary").observeSingleEvent(of: .value, with: { (snapshot) in
-//            // Get user value
-//            print("Query WORKED !!!!!!!!!!!!!!!!!!!!")
-//            let value = snapshot.value as? NSDictionary
-//            print("--------------->> ",value as Any)
-//            let prefix = value?["prefix"] as? String ?? ""
-//            print("prefix --> ",prefix)
-//            // ...
-//        }) { (error) in
-//            print(error.localizedDescription)
-//        }
-        
-        
-        
-        
-        
-        ref.observeSingleEvent(of: .value, with: { snapshot in
-            
-            if !snapshot.exists() { return }
-            
-            print(snapshot.childrenCount)
-            print(snapshot.children)
-            print(snapshot.value as Any)
-            
-            // can also use
-            // snapshot.childSnapshotForPath("full_name").value as! String
-        })
-
-        
-        
-        
-        
         list = ["1","2","3"]
+        self.readJson()
+    }
+    
+    private func readJson() {
         
+        do {
+            if let file = Bundle.main.url(forResource: "feed", withExtension: "json") {
+                let data = try Data(contentsOf: file)
+                
+                
+//                 let json = try JSONSerialization.jsonObject(with: data, options: .allowFragments)
+                
+                let json = JSON(data)
+                
+                
+//                let sortedArray = json.sorted { $0["alpha"]! < $1["alpha"]! }
+                
+                
+                for (key,subJson):(String, JSON) in json {
+                    // Do something you want
+                    print(key," <> ",subJson)
+                    self.list.append(subJson)
+                }
+            
+                
+                for item in self.list {
+                    print(item," --->>> ",JSON(item)["alpha"])
+                }
+
+                
+//                let json = try JSONSerialization.jsonObject(with: data, options: .allowFragments)
+//
+//                if let object = json as? [String: Any] {
+//                    // json is a dictionary
+//                    print("Dict -> ",object)
+//
+//                    for (key, value) in object {
+//                        print(key," -> value = JSON -> ",value)
+//                        self.list.append(value)
+//                    }
+//
+//
+//
+////                    self.list = Array(object.keys)
+//
+//                } else if let object = json as? [Any] {
+//                    // json is an array
+//                    print("Array -> ",object)
+//                } else {
+//                    print("JSON is invalid")
+//                }
+            } else {
+                print("no file")
+            }
+        } catch {
+            print(error.localizedDescription)
+        }
     }
     
     
+    
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        print("num items", self.list.count)
         return self.list.count
     }
     
@@ -77,25 +96,12 @@ class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataS
 
         let cell = tbl_view.dequeueReusableCell(withIdentifier: "customcell", for: indexPath)
         
-//        cell.textLabel!.text = list[indexPath.row]
+        print("--->>>>>>> ",self.list[indexPath.row])
+        
+        cell.textLabel!.text = self.list[indexPath.row] as? String
         
         return cell
     }
-    
-//    func testFirebase(){
-//        print("testFirebase called")
-//        functions.httpsCallable("getFeed").call() { (result, error) in
-//            print("Function returned")
-//            if let err = error {
-//                print("Error -----> ",err)
-//            }
-//
-//            if let res = result {
-//                print("Resut -----> ",res)
-//            }
-//        }
-//
-//    }
     
 }
 

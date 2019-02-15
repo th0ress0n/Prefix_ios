@@ -33,6 +33,7 @@
 		A454FF94220466280095A0CE /* Museo_Slab_900italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = A454FF87220466280095A0CE /* Museo_Slab_900italic.otf */; };
 		A454FF95220466280095A0CE /* Museo_Slab_900.otf in Resources */ = {isa = PBXBuildFile; fileRef = A454FF88220466280095A0CE /* Museo_Slab_900.otf */; };
 		A454FF96220466280095A0CE /* Museo_Slab_100italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = A454FF89220466280095A0CE /* Museo_Slab_100italic.otf */; };
+		A4F4943522085E80002196E3 /* feed.json in Resources */ = {isa = PBXBuildFile; fileRef = A4F4943422085E80002196E3 /* feed.json */; };
 		BEC59C61C7BDDDB7C2391CE1 /* Pods_Prefix.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD8C2A02A98C6C76AACD2649 /* Pods_Prefix.framework */; };
 /* End PBXBuildFile section */
 
@@ -89,6 +90,7 @@
 		A454FF87220466280095A0CE /* Museo_Slab_900italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Museo_Slab_900italic.otf; sourceTree = "<group>"; };
 		A454FF88220466280095A0CE /* Museo_Slab_900.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Museo_Slab_900.otf; sourceTree = "<group>"; };
 		A454FF89220466280095A0CE /* Museo_Slab_100italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Museo_Slab_100italic.otf; sourceTree = "<group>"; };
+		A4F4943422085E80002196E3 /* feed.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = feed.json; sourceTree = "<group>"; };
 		DC40F991C0F95306D670942C /* Pods-PrefixTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PrefixTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-PrefixTests/Pods-PrefixTests.release.xcconfig"; sourceTree = "<group>"; };
 		DC52D55842406021BD086293 /* Pods-PrefixUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PrefixUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PrefixUITests/Pods-PrefixUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		EDF314E5BCA20BCB3D61AE91 /* Pods-Prefix.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Prefix.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Prefix/Pods-Prefix.debug.xcconfig"; sourceTree = "<group>"; };
@@ -193,6 +195,7 @@
 		A454FF7122045C770095A0CE /* resources */ = {
 			isa = PBXGroup;
 			children = (
+				A4F4943322085E5F002196E3 /* data */,
 				A454FF7222045C9A0095A0CE /* font */,
 			);
 			path = resources;
@@ -249,6 +252,14 @@
 				A4358FEB2201D39A00C556DA /* HomeViewController.swift */,
 			);
 			path = HomeViewController;
+			sourceTree = "<group>";
+		};
+		A4F4943322085E5F002196E3 /* data */ = {
+			isa = PBXGroup;
+			children = (
+				A4F4943422085E80002196E3 /* feed.json */,
+			);
+			path = data;
 			sourceTree = "<group>";
 		};
 		D53D87F06F2C9CF67CF07458 /* Pods */ = {
@@ -379,6 +390,7 @@
 			files = (
 				A4358FF72201D39B00C556DA /* LaunchScreen.storyboard in Resources */,
 				A454FF93220466280095A0CE /* Museo_Slab_500italic.otf in Resources */,
+				A4F4943522085E80002196E3 /* feed.json in Resources */,
 				A435901B2201DFF200C556DA /* GoogleService-Info.plist in Resources */,
 				A454FF90220466280095A0CE /* Museo_Slab_1000italic.otf in Resources */,
 				A454FF8A220466280095A0CE /* Museo_Slab_100.otf in Resources */,
@@ -544,6 +556,7 @@
 				"${SRCROOT}/Pods/Target Support Files/Pods-Prefix/Pods-Prefix-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
 				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
 				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
 				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
 			);
@@ -553,6 +566,7 @@
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
 			);
