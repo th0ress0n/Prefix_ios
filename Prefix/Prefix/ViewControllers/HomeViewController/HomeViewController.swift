@@ -14,13 +14,7 @@ import SwiftyJSON
 
 class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataSource {
     
-    
     @IBOutlet weak var tbl_view: UITableView!
-    
-    
-    var ref:DatabaseReference! = nil
-    
-    var list: Array<Model>!
     
     struct Model: Codable {
         let alpha:  String
@@ -29,10 +23,18 @@ class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataS
         let copy:   String
     }
     
+    var detailObj:Model! = nil
+    
+    var ref:DatabaseReference! = nil
+    
+    var list: Array<Model>!
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("HomeViewController.swift - viewDidLoad")
+        
+        self.tbl_view.separatorStyle = UITableViewCell.SeparatorStyle.singleLine
+        self.tbl_view.separatorColor = UIColor.white
+
         list = []
         ref = Database.database().reference()
         self.loadData()
@@ -75,15 +77,45 @@ class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataS
     
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-
         let cell = tbl_view.dequeueReusableCell(withIdentifier: "customcell", for: indexPath)
-        
-        print("--->>>>>>> ",self.list[indexPath.row])
-        
-        cell.textLabel!.text = self.list[indexPath.row].alpha as? String
-        
+        cell.separatorInset = UIEdgeInsets.init(top: 0, left: 10, bottom: 0, right: 20)
+        cell.textLabel!.text = self.list[indexPath.row].header
         return cell
     }
+    
+    
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        print("You selected cell #\(indexPath.row)!")
+        let rowID = tableView.indexPathForSelectedRow
+        let currentCell = tableView.cellForRow(at: indexPath)
+        print(rowID as Any," <==> ",indexPath," <==> ",currentCell as Any)
+        
+        // create the object to pass
+        // detailObj = <FIX = Get Model used for list item>
+        // setup segue
+        performSegue(withIdentifier: "toDetailView", sender: self)
+        
+    }
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if (segue.identifier == "toDetailView") {
+            
+        }
+    }
+    
+    
+    func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?){
+        
+        if (segue.identifier == "yourSegueIdentifer") {
+           
+            var newVC = segue.destination as! DetailViewController
+            
+            newVC.receiverModel = self.detailObj as! DetailViewController.Model
+            
+        }
+    }
+    
+    
     
 }
 
