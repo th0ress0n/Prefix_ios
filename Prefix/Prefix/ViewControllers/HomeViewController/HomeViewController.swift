@@ -9,6 +9,7 @@
 import UIKit
 import Firebase
 import FirebaseFunctions
+import CodableFirebase
 import SwiftyJSON
 
 class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataSource {
@@ -16,73 +17,52 @@ class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataS
     
     @IBOutlet weak var tbl_view: UITableView!
     
-    var ref:DatabaseReference! = nil // your ref ie. root.child("users").child("stephenwarren001@yahoo.com")
     
-    var list: Array<Any>!
+    var ref:DatabaseReference! = nil
+    
+    var list: Array<Model>!
+    
+    struct Model: Codable {
+        let alpha:  String
+        let prefix: String
+        let header: String
+        let copy:   String
+    }
     
     
     override func viewDidLoad() {
         super.viewDidLoad()
         print("HomeViewController.swift - viewDidLoad")
-        
-        list = ["1","2","3"]
-        self.readJson()
+        list = []
+        ref = Database.database().reference()
+        self.loadData()
     }
-    
-    private func readJson() {
-        
-        do {
-            if let file = Bundle.main.url(forResource: "feed", withExtension: "json") {
-                let data = try Data(contentsOf: file)
-                
-                
-//                 let json = try JSONSerialization.jsonObject(with: data, options: .allowFragments)
-                
-                let json = JSON(data)
-                
-                
-//                let sortedArray = json.sorted { $0["alpha"]! < $1["alpha"]! }
-                
-                
-                for (key,subJson):(String, JSON) in json {
-                    // Do something you want
-                    print(key," <> ",subJson)
-                    self.list.append(subJson)
-                }
-            
-                
-                for item in self.list {
-                    print(item," --->>> ",JSON(item)["alpha"])
-                }
 
+
+    func loadData(){
+        ref.observe(.value, with: { snapshot in
+
+            for child in snapshot.children {
+                let ar: Array<Model>!
+                ar = []
                 
-//                let json = try JSONSerialization.jsonObject(with: data, options: .allowFragments)
-//
-//                if let object = json as? [String: Any] {
-//                    // json is a dictionary
-//                    print("Dict -> ",object)
-//
-//                    for (key, value) in object {
-//                        print(key," -> value = JSON -> ",value)
-//                        self.list.append(value)
-//                    }
-//
-//
-//
-////                    self.list = Array(object.keys)
-//
-//                } else if let object = json as? [Any] {
-//                    // json is an array
-//                    print("Array -> ",object)
-//                } else {
-//                    print("JSON is invalid")
-//                }
-            } else {
-                print("no file")
+                if let snapshot = child as? DataSnapshot {
+                    for chld in snapshot.children {
+                        
+                        if let snpsht = chld as? DataSnapshot {
+                            do {
+                                let model = try FirebaseDecoder().decode(Model.self, from: snpsht.value as Any)
+                                ar.append(model)
+                            } catch let error {
+                                print(error)
+                            }
+                        }
+                    }
+                }
+                self.list = ar
+                self.tbl_view.reloadData()
             }
-        } catch {
-            print(error.localizedDescription)
-        }
+        })
     }
     
     
@@ -92,13 +72,15 @@ class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataS
         return self.list.count
     }
     
+    
+    
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
 
         let cell = tbl_view.dequeueReusableCell(withIdentifier: "customcell", for: indexPath)
         
         print("--->>>>>>> ",self.list[indexPath.row])
         
-        cell.textLabel!.text = self.list[indexPath.row] as? String
+        cell.textLabel!.text = self.list[indexPath.row].alpha as? String
         
         return cell
     }

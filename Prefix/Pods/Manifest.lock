@@ -1,4 +1,5 @@
 PODS:
+  - CodableFirebase (0.2.1)
   - Crashlytics (3.12.0):
     - Fabric (~> 1.9.0)
   - Fabric (1.9.0)
@@ -83,6 +84,7 @@ PODS:
   - SwiftyJSON (4.2.0)
 
 DEPENDENCIES:
+  - CodableFirebase
   - Crashlytics
   - Fabric
   - Firebase/AdMob
@@ -93,6 +95,7 @@ DEPENDENCIES:
   - SwiftyJSON (~> 4.0)
 
 SPEC CHECKSUMS:
+  CodableFirebase: 0bf201991eeec35eb9fcd987d271ea463cf34a80
   Crashlytics: 07fb167b1694128c1c9a5a5cc319b0e9c3ca0933
   Fabric: f988e33c97f08930a413e08123064d2e5f68d655
   Firebase: 749a8ff4962f9d8c79dda1966de20f6f77583d67
@@ -111,6 +114,6 @@ SPEC CHECKSUMS:
   nanopb: 2901f78ea1b7b4015c860c2fdd1ea2fee1a18d48
   SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
 
-PODFILE CHECKSUM: ee2fe2bfe11d80790ab55ab537570fd25b788d7b
+PODFILE CHECKSUM: e10d9ee955244a3d8b8562367256c76af8fd4d33
 
 COCOAPODS: 1.4.0
