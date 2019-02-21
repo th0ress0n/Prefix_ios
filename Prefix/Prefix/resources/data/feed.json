@@ -8,7 +8,7 @@
         },
         "2" : {
             "alpha" : "ab",
-            "prefix" : "a/b t",
+            "prefix" : "a/b",
             "header" : "a/b testing",
             "copy" : "This is testing a new technique (A) of online marketing (whether it be PPC or SEO) against a control (B) to see if the new technique is more effective."
         },

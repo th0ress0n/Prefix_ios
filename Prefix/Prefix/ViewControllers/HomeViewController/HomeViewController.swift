@@ -86,21 +86,8 @@ class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataS
     
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        print("You selected cell #\(indexPath.row)!")
-        let rowID = tableView.indexPathForSelectedRow
-        let currentCell = tableView.cellForRow(at: indexPath)
-        print(rowID as Any," <==> ",indexPath," <==> ",currentCell as Any)
-        
-        // create the object to pass
-        // detailObj = <FIX = Get Model used for list item>
-        // setup segue
-        
-        print("IS THIS THE RIGHT ONE? ",self.list[indexPath.row].header)
-        
         self.pItem = self.list[indexPath.row]
-        
         self.performSegue(withIdentifier: "segueToDetail", sender: self)
-        
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
