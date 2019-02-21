@@ -15,13 +15,14 @@ import SwiftyJSON
 
 class DetailViewController: UIViewController {
     
-    struct Model: Codable {
-        let alpha:  String
-        let prefix: String
-        let header: String
-        let copy:   String
-    }
+    var pItem: PrefixItem?
     
-    var receiverModel:Model! = nil
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        
+        let value = pItem?.alpha // this should work fine here
+        print("----->>>> ",value)
+    }
     
 }

@@ -12,22 +12,23 @@ import FirebaseFunctions
 import CodableFirebase
 import SwiftyJSON
 
+struct PrefixItem: Codable {
+    let alpha:  String
+    let prefix: String
+    let header: String
+    let copy:   String
+}
+
+
 class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataSource {
     
     @IBOutlet weak var tbl_view: UITableView!
     
-    struct Model: Codable {
-        let alpha:  String
-        let prefix: String
-        let header: String
-        let copy:   String
-    }
-    
-    var detailObj:Model! = nil
+    var pItem: PrefixItem?
     
     var ref:DatabaseReference! = nil
     
-    var list: Array<Model>!
+    var list: Array<PrefixItem>!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -45,7 +46,7 @@ class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataS
         ref.observe(.value, with: { snapshot in
 
             for child in snapshot.children {
-                let ar: Array<Model>!
+                let ar: Array<PrefixItem>!
                 ar = []
                 
                 if let snapshot = child as? DataSnapshot {
@@ -53,7 +54,7 @@ class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataS
                         
                         if let snpsht = chld as? DataSnapshot {
                             do {
-                                let model = try FirebaseDecoder().decode(Model.self, from: snpsht.value as Any)
+                                let model = try FirebaseDecoder().decode(PrefixItem.self, from: snpsht.value as Any)
                                 ar.append(model)
                             } catch let error {
                                 print(error)
@@ -93,29 +94,20 @@ class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataS
         // create the object to pass
         // detailObj = <FIX = Get Model used for list item>
         // setup segue
-        performSegue(withIdentifier: "toDetailView", sender: self)
+        
+        print("IS THIS THE RIGHT ONE? ",self.list[indexPath.row].header)
+        
+        self.pItem = self.list[indexPath.row]
+        
+        self.performSegue(withIdentifier: "segueToDetail", sender: self)
         
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        if (segue.identifier == "toDetailView") {
-            
+        if let destination = segue.destination as? DetailViewController {
+            destination.pItem = self.pItem
         }
     }
-    
-    
-    func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?){
-        
-        if (segue.identifier == "yourSegueIdentifer") {
-           
-            var newVC = segue.destination as! DetailViewController
-            
-            newVC.receiverModel = self.detailObj as! DetailViewController.Model
-            
-        }
-    }
-    
-    
     
 }
 
