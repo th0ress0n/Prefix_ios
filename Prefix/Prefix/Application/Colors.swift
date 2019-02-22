@@ -7,3 +7,13 @@
 //
 
 import Foundation
+import UIKit
+
+
+class Colors {
+    static let white = UIColor.white
+    static let lightGrey = UIColor.lightGray
+    static let primaryBlue = UIColor.blue
+    static let secondaryBlue = UIColor.blue
+}
+

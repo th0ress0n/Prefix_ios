@@ -19,22 +19,19 @@ struct PrefixItem: Codable {
     let copy:   String
 }
 
-
 class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataSource {
     
     @IBOutlet weak var tbl_view: UITableView!
     
     var pItem: PrefixItem?
-    
     var ref:DatabaseReference! = nil
-    
     var list: Array<PrefixItem>!
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
         self.tbl_view.separatorStyle = UITableViewCell.SeparatorStyle.singleLine
-        self.tbl_view.separatorColor = UIColor.white
+        self.tbl_view.separatorColor = Colors.white
 
         list = []
         ref = Database.database().reference()
@@ -68,14 +65,9 @@ class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataS
         })
     }
     
-    
-    
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        print("num items", self.list.count)
         return self.list.count
     }
-    
-    
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tbl_view.dequeueReusableCell(withIdentifier: "customcell", for: indexPath)
@@ -95,6 +87,4 @@ class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataS
             destination.pItem = self.pItem
         }
     }
-    
 }
-

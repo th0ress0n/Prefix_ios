@@ -12,7 +12,6 @@ import FirebaseFunctions
 import CodableFirebase
 import SwiftyJSON
 
-
 class DetailViewController: UIViewController {
     
     @IBOutlet weak var alphaLabel: UILabel!
@@ -24,8 +23,6 @@ class DetailViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        print("----->>>> ",pItem?.alpha as Any)
         
         self.alphaLabel.text = pItem?.alpha.uppercased()
         self.prefixLabel.text = pItem?.prefix
