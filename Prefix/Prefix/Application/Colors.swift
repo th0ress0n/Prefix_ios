@@ -16,5 +16,6 @@ class Colors {
     static let primaryBlue = UIColor.blue
     static let secondaryBlue = UIColor.blue
     static let black = UIColor.black
+    static let red = UIColor.red
 }
 
