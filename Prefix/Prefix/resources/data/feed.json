@@ -1353,262 +1353,550 @@
             "userID" : ""
         },
         "170" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "dsp",
+            "prefix" : "DSP",
+            "header" : "Demand-Side Platform (DSP)",
+            "copy" : "A system that allows advertisers to bid for and purchase inventory from multiple ad exchanges, through one single interface.",
             "userContributed" : false,
             "userID" : ""
         },
         "171" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "dhcp",
+            "prefix" : "DHCP",
+            "header" : "DHCP",
+            "copy" : "Dynamic Host Configuration Protocol (DHCP) is a network protocol that enables a server to automatically assign an IP address to a computer from a defined range of numbers (i.e., a scope) configured for a given network.",
             "userContributed" : false,
             "userID" : ""
         },
         "172" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "da",
+            "prefix" : "DA",
+            "header" : "Display Advertising",
+            "copy" : "A form of online advertising where an advertiser’s message is shown on a destination web page, generally set off in a box at the top or bottom or to one side of the content of the page. Display ads can be graphics, videos, interactive images (a quiz or a game), and expandable (Also see: Expandable Banner). The most common sizes for display ads are, Banner: 728 x 90, Rectangle: 350 x 250, Skyscraper: 160 x 600, Square: 250 x 250",
             "userContributed" : false,
             "userID" : ""
         },
         "173" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ds",
+            "prefix" : "DS",
+            "header" : "Diary Study",
+            "copy" : "Asking users to record their experiences and thoughts about a product or task in a journal over a set period of time.",
             "userContributed" : false,
             "userID" : ""
         },
         "174" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "dr",
+            "prefix" : "DR",
+            "header" : "Direct Response",
+            "copy" : "A campaign or ad specifically created to encourage audiences to take immediate action.",
             "userContributed" : false,
             "userID" : ""
         },
         "175" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "doc",
+            "prefix" : "DOC",
+            "header" : "DOC",
+            "copy" : "DOC is a document file format used by Microsoft Word, also used with most word processing software, including OpenOffice. DOC stands for DOCument file. A DOC file can contain formatted text, images, tables, graphs, charts, page formatting, and print settings.",
             "userContributed" : false,
             "userID" : ""
         },
         "176" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "d",
+            "prefix" : "D",
+            "header" : "Donut",
+            "copy" : "Android 1.6 'Donut' is a version of the open source Android mobile operating system developed by Google, that is no longer supported. Among the more prominent features introduced with this update were added support for CDMA smartphones, additional screen sizes, a battery usage indicator, and a text-to-speech engine.",
             "userContributed" : false,
             "userID" : ""
         },
         "177" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "dos",
+            "prefix" : "DOS",
+            "header" : "DOS",
+            "copy" : "The term DOS can refer to any operating system, but it is most often used as a shorthand for MS-DOS (Microsoft disk operating system). Originally developed by Microsoft for IBM, MS-DOS was the standard operating system for IBM-compatible personal computers.",
             "userContributed" : false,
             "userID" : ""
         },
         "178" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "dn",
+            "prefix" : "DN",
+            "header" : "Domain name",
+            "copy" : "The unique name that identifies an Internet site. Every domain name consists of one top or high-level and one or more lower-level designators. Top-level domains (TLDs) are either generic or geographic. Generic top-level domains include .com (commercial), .net (network), .edu (educational), .org (organisational, public or non- commercial), .gov (governmental), .mil (military); .biz (business), .info (informational),.name (personal), .pro (professional), .aero (air transport and civil aviation), .coop (business cooperatives such as credit unions) and .museum. Geographic domains designate countries of origin, such as .us (United States), .fr (France), .uk (United Kingdom), etc.",
             "userContributed" : false,
             "userID" : ""
         },
         "179" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "dns",
+            "prefix" : "DNS",
+            "header" : "DNS",
+            "copy" : "Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They maintain a directory of domain names and translate them to Internet Protocol (IP) addresses. This is necessary because, although domain names are easy for people to remember, computers or machines, access websites based on IP addresses.",
             "userContributed" : false,
             "userID" : ""
         },
         "180" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "dsl",
+            "prefix" : "DSL",
+            "header" : "DSL",
+            "copy" : "Digital subscriber line (DSL; originally digital subscriber loop) is a family of technologies that are used to transmit digital data over telephone lines. In telecommunications marketing, the term DSL is widely understood to mean asymmetric digital subscriber line (ADSL), the most commonly installed DSL technology, for Internet access. DSL service can be delivered simultaneously with wired telephone service on the same telephone line. This is possible because DSL uses higher frequency bands for data. On the customer premises, a DSL filter on each non-DSL outlet blocks any high-frequency interference to enable simultaneous use of the voice and DSL services.",
             "userContributed" : false,
             "userID" : ""
         },
         "181" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "df",
+            "prefix" : "DF",
+            "header" : "Duplicate Frame",
+            "copy" : "There are several similar but distinct methods of repeating frames in digital animation software, depending on your intent. To ‘duplicate’ a frame in most softwares refers to creating an identical frame (or layer) which can then be manipulated distinctly from the original (eg. to redraw a new frame from one position into a slightly different position). To ‘copy’ a frame refers to cloning the original frame in its exact form which is then updated when either frame is manipulated (similar to a file shortcut, where the shortcut is not a distinct program but a portal to the original). To ‘add exposure’ refers to holding on the current frame artwork for a longer period of frames. [Note: This is a general guide, and terminology can vary from software to software. In the world of 2D animation for example, Toon Boom uses the above terms while Adobe Flash uses ‘copy’ to also mean ‘duplicate’, since there is no direct cloning function for individual frames in Flash.",
             "userContributed" : false,
             "userID" : ""
         },
         "182" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "dbt",
+            "prefix" : "DBT",
+            "header" : "Due By Time (DBT)",
+            "copy" : "The time when a case must be responded to or resolved is called the due by time. This time appears on the case and is determined by the company’s service level agreement (SLA) for a particular channel.",
             "userContributed" : false,
             "userID" : ""
         },
         "183" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ec",
+            "prefix" : "EC",
+            "header" : "E-commerce",
+            "copy" : "The process of selling products or services via the Web.",
             "userContributed" : false,
             "userID" : ""
         },
         "184" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "e",
+            "prefix" : "E",
+            "header" : "Eclair",
+            "copy" : "Android Eclair inherits platform additions from the Donut release, ability to search all saved SMS and MMS messages, improved Google Maps 3.1.2, and Exchange support for the Email app. The operating system also provides improved typing speed on virtual keyboard, along with new accessibility, calendar, and virtual private network APIs. For internet browsing, Android Eclair also adds support for HTML5, refreshed browser UI with bookmark thumbnails and double-tap zoom.",
             "userContributed" : false,
             "userID" : ""
         },
         "185" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ec",
+            "prefix" : "EC",
+            "header" : "EC2",
+            "copy" : "Amazon Elastic Compute Cloud (EC2) forms a central part of Amazon.com's cloud-computing platform, Amazon Web Services (AWS), by allowing users to rent virtual computers on which to run their own computer applications. EC2 encourages scalable deployment of applications by providing a web service through which a user can boot an Amazon Machine Image (AMI) to configure a virtual machine, which Amazon calls an 'instance', containing any software desired. A user can create, launch, and terminate server-instances as needed, paying by the hour for active servers – hence the term 'elastic'. EC2 provides users with control over the geographical location of instances that allows for latency optimisation and high levels of redundancy.",
             "userContributed" : false,
             "userID" : ""
         },
         "186" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "enps",
+            "prefix" : "ENPS",
+            "header" : "Employee NPS (eNPS)",
+            "copy" : "Employee NPS is an approach to employee engagement that is based on the Net Promoter System. This approach was developed based on the idea that happy, engaged employees ultimately leads to loyal customers, and that the annual employee surveys didn’t meet the needs of most companies. As a result, Net Promoter® practitioners have developed an approach to employee engagement based on the Net Promoter System® itself. They systematically identify and strive to improve forms of employee engagement and workplace characteristics that have the biggest potential impact on customer loyalty.",
             "userContributed" : false,
             "userID" : ""
         },
         "187" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ee",
+            "prefix" : "EE",
+            "header" : "Employee experience",
+            "copy" : "Just as you have a customer experience with your company, you also have an employee experience. Your employee experience represents all the ways your staff experiences your organisation over their time working there, from company culture to compensation and many other small ways in between.",
             "userContributed" : false,
             "userID" : ""
         },
         "188" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "es",
+            "prefix" : "ES",
+            "header" : "Employee survey",
+            "copy" : "This is the chance you give to your employees to make their voices heard. In sending out a survey to your team members (anonymous is better to encourage people to speak freely), you might get surprising insight about how your company can improve its customer service experience and, in general, make employees happier.",
             "userContributed" : false,
             "userID" : ""
         },
         "189" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ea",
+            "prefix" : "EA",
+            "header" : "E-mail Advertising",
+            "copy" : "Banner ads, links or advertiser sponsorships that appear in e-mail newsletters, e-mail marketing campaigns and other commercial e-mail communications. Includes all types of electronic mail (e.g., basic text or HTML-enabled).",
             "userContributed" : false,
             "userID" : ""
         },
         "190" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "eb",
+            "prefix" : "EB",
+            "header" : "E-mail Bounce",
+            "copy" : "An e-mail that cannot be delivered to the mailbox provider and is sent back to the e- mail Service Provider that sent it. A bounce is classified as either hard or soft. Hard bounces are the failed delivery of e-mail due to a permanent reason, such as a non- existent address. Soft bounces are the failed delivery of e-mail due to a temporary issue, such as a full inbox or an unavailable ISP server.",
             "userContributed" : false,
             "userID" : ""
         },
         "191" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ec",
+            "prefix" : "EC",
+            "header" : "E-mail campaign",
+            "copy" : "Advertising campaign distributed via e-mail.",
             "userContributed" : false,
             "userID" : ""
         },
         "192" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "e",
+            "prefix" : "E",
+            "header" : "Engagement",
+            "copy" : "Another word for when you talk with your customers or when they talk amongst themselves in forums, on social media, etc. Engagement happens online and off, in person and not. Basically, any time your customers are thinking about or talking about your company, they’re engaging. Looking at how and where this happens is important for understanding what customers want and how you can serve them better. For support teams, it’s better to think of customer engagement a form of interactive customer service.",
             "userContributed" : false,
             "userID" : ""
         },
         "193" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "eps",
+            "prefix" : "EPS",
+            "header" : "EPS",
+            "copy" : "Encapsulated Postscript Vector graphics (Adobe Illustrator) EPS is a file extension for a graphics file format used in vector-based images in Adobe Illustrator. EPS stands for Encapsulated PostScript. An EPS file can contain text as well as graphics.",
             "userContributed" : false,
             "userID" : ""
         },
         "194" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "e",
+            "prefix" : "E",
+            "header" : "Escalations",
+            "copy" : "If your support team doesn’t respond to a case soon enough and violates your SLA, the case can be escalated to indicate that it’s now high priority. That escalation might involve sending a reminder email to the agent assigned to the case, as well as updating the case itself to raise its priority.",
             "userContributed" : false,
             "userID" : ""
         },
         "195" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "e",
+            "prefix" : "E",
+            "header" : "Evangelist",
+            "copy" : "Another word for your biggest fans, your converts, your most loyal customers. These are the customers who talk up your company to their friends and family, who have had nothing but positive interactions with your brand and service and who love your products. Standout service can make evangelists of average customers.",
             "userContributed" : false,
             "userID" : ""
         },
         "196" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "eb",
+            "prefix" : "EB",
+            "header" : "Expandable banners",
+            "copy" : "A banner ad which can expand after a user clicks on it or after a user moves his/her cursor over the banner.",
             "userContributed" : false,
             "userID" : ""
         },
         "197" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "e",
+            "prefix" : "E",
+            "header" : "Expectations",
+            "copy" : "How your customer wants to be treated and what expectations they have going into a customer service experience. Expectations are often formed before the customer reaches you directly because of your reputation, what they have read about you online, and how family and friends have been treated in the past. Customer expectations are reinforced positively and negatively during and after a service experience, which means that it’s in everyone’s best interest at an organisation to be constantly improving and exceeding expectations. But be realistic. Set expectations that your team can actually achieve.",
             "userContributed" : false,
             "userID" : ""
         },
         "198" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "e",
+            "prefix" : "E",
+            "header" : "Expressions",
+            "copy" : "Expressions, similar to scripts, are a piece of JavaScript language used to direct a layer property (such as position, scale, rotation, etc.) how to behave. Expressions are most prominently featured for general users in software focussing on VFX and motion-graphics, as they help to create complex and randomised keyframe commands which would otherwise be tiresome to key manually. They can be used in conjunction with or instead of regular property settings and keyframes, offering an efficient method of adding extra dynamic behaviour to an existing layer.",
             "userContributed" : false,
             "userID" : ""
         },
         "199" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "em",
+            "prefix" : "EM",
+            "header" : "Experience Map",
+            "copy" : "An experience map is an holistic, visual representation of your users’ interactions with your organisation when zoomed right out (usually captured on a large canvas). See also: Customer Journey Map",
             "userContributed" : false,
             "userID" : ""
         },
         "200" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "em",
+            "prefix" : "EM",
+            "header" : "Experience measurements",
+            "copy" : "Experience measurements are ways to measure CX, or customer experience. One of the most common measurements of customer experience is the Net Promoter Score, which is the percentage of clients who would recommend your company to friends and family. Other measurements of customer experience include customer satisfaction scores (what percentage was happy with their service) and customer effort scores (how much effort did it take for your client to get the service they needed). Tracking such metrics isn’t enough though. Analyze measurements such as the NPS, CES and CSAT for friction and patterns. If your customers are reporting that they’re not satisfied with your service and you’ve noticed that your wait times have gone up, there could be a correlation. Experience measurements can be used not only to improve your service, but the entire customer experience as a whole. Past service is an important touchpoint that stays in a client’s mind when he or she thinks of your company.",
             "userContributed" : false,
             "userID" : ""
         },
         "201" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "es",
+            "prefix" : "ES",
+            "header" : "Experience strategy",
+            "copy" : "Your customer experience strategy is the unifying mission that your team operates under to give the best possible customer experience it can. Without it, your team may not know what your CX standards are, how they can define success, or how to make decisions. - Your customer experience strategy relates to how your customers are treated and what your standards are for how the service experience should go (not to be confused with your Customer Service Strategy, which relates more to the practicalities of how you will offer support, what channels you use and how quickly you respond). For example, your customer experience strategy might include a written set of core values for all service interactions. Or a company might track its Net Promoter Score and other customer feedback to continuously improve the service experience.",
             "userContributed" : false,
             "userID" : ""
         },
         "202" : {
+            "alpha" : "e",
+            "prefix" : "E",
+            "header" : "Eyeballs",
+            "copy" : "Slang term for audience; the number of people who view a certain website or advertisement.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "203" : {
+            "alpha" : "exe",
+            "prefix" : "EXE",
+            "header" : "EXE",
+            "copy" : ".exe is a common filename extension denoting an executable file (the main execution point of a computer program) for qqDOS, OpenVMS, Microsoft Windows, Symbian or OS/2. Besides the executable program, many .exe files contain other components called resources, such as bitmap graphics and icons which the executable program may use for its graphical user interface.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "204" : {
+            "alpha" : "f",
+            "prefix" : "F",
+            "header" : "Favicon",
+            "copy" : "A small icon image that is associated with a specific website, usually containing the company logo or a variation. The favicon is displayed in either the title bar or tab of the browser and also appears with bookmarks.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "205" : {
+            "alpha" : "f",
+            "prefix" : "F",
+            "header" : "Feedback",
+            "copy" : "In general, feedback is defined as someone’s personal reaction to, comment on, and/or criticism of something. It’s given verbally or in writing. In service, feedback comes in all sorts of forms. Companies solicit feedback from customers about new products via focus groups, and service departments try to get feedback from people they’ve helped via surveys at the end of calls or by email. Taking your feedback and making changes where necessary will improve your customer service experience.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "206" : {
+            "alpha" : "fw",
+            "prefix" : "FW",
+            "header" : "Feedback widget",
+            "copy" : "A feedback widget can take many forms. Sometimes it looks like a mini-satisfaction survey and is embedded on your company website or app. For example, at the end of a self-help article, a company might include a widget that asks 'Did this article solve your problem?' with buttons for yes and no. Or, on your website’s contact or service pages, a company might include a widget with a 1-10 scale for customers to rate their overall satisfaction with your products and services, along with space for them to leave written feedback. Whatever form your widgets take, don’t bury them or you risk not getting much meaningful feedback.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "207" : {
+            "alpha" : "f",
+            "prefix" : "F",
+            "header" : "Firewall",
+            "copy" : "A security barrier controlling communication between a personal or corporate computer network and the Internet. A firewall is based on rules which allow and disallow traffic to pass, based on the level of security and filtering a network administrator wishes to employ.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "208" : {
+            "alpha" : "F",
+            "prefix" : "F",
+            "header" : "FireFox",
+            "copy" : "A software program with a graphical interface that people use to navigate all the information available on the World Wide Web. Examples include Firefox, Chrome, and Internet Explorer.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "209" : {
+            "alpha" : "fcr",
+            "prefix" : "FCR",
+            "header" : "First contact resolution",
+            "copy" : "The unicorn of customer support metrics, FCR is when your agent resolves a customer’s support request on the first go. Your support agent has successfully addressed your customer’s concerns in a single, well-crafted reply. Don’t expect this metric to be super-high. A little (and sometimes a lot of) back and forth is normal. You can measure your FCR rate by tracking the number of interactions in a case and calculating the number of one-touch responses. Tracking your FCRs help you see what you can do to keep the average number of interactions low. This then reduces customer effort and improves the customer experience all around. You can also use this opportunity to gain customer feedback by asking how the user felt their interaction went. Use this feedback to make improvements to your support processes.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "210" : {
+            "alpha" : "frt",
+            "prefix" : "FRT",
+            "header" : "First Response Time (FRT)",
+            "copy" : "How long do your agents take to make the first reply on a case? This is your first response/reply time (FRT). This metric shows how long it it takes for your support team to get back to a customer’s first request. First response time is more important than your overall response/reply times because it’s an acknowledgment to the customer that their issue is being looked into. It also indicates how quickly your team is addressing new support cases, and helps you see whether you have enough team members to deal with volume. Different channels have different expectations for FRTs, but in general a high rate means that customers may channel switch because they aren’t sure if you’ve received their message or are working on their case. Your goal is to keep your FRT as low as possible, because a speedy first response shows customers that you’re taking them seriously. FRTs should be outlined in your SLAs.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "211" : {
+            "alpha" : "fa",
+            "prefix" : "FA",
+            "header" : "Floating ads",
+            "copy" : "An ad or ads that appear within the main browser window on top of the Web page's normal content, thereby appearing to 'float' over the top of the page. ",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "212" : {
+            "alpha" : "fd",
+            "prefix" : "FD",
+            "header" : "Floppy disk",
+            "copy" : "A floppy disk, also called a floppy, diskette, or just disk, is a type of disk storage composed of a disk of thin and flexible magnetic storage medium, sealed in a rectangular plastic enclosure lined with fabric that removes dust particles. Floppy disks are read and written by a floppy disk drive (FDD). Floppy disks, initially as 8-inch (200 mm) media[1] and later in 5¼-inch (133 mm) and 3½-inch (90 mm) sizes, were a ubiquitous form of data storage and exchange from the mid-1970s into the mid-2000s.[2] By the late 2000s, computers were rarely manufactured with installed floppy disk drives; 3½-inch floppy disks can be used with an external USB floppy disk drive, but USB drives for 5¼-inch, 8-inch, and non-standard diskettes are rare to non-existent. These formats are usually handled by older equipment.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "213" : {
+            "alpha" : "f",
+            "prefix" : "F",
+            "header" : "Fold",
+            "copy" : "The line below which a user has to scroll to see content not immediately visible when a Web page loads in a browser.  Ads or content displayed â€•above the foldâ€– are visible without any end-user interaction. Monitor size and resolution determine where on a Web page the fold lies.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "214" : {
+            "alpha" : "f",
+            "prefix" : "F",
+            "header" : "Font",
+            "copy" : "A font is a specific typeface of a certain size and style. For example, one font may be Arial 12 pt bold, while another font may be Times New Roman 14 pt italic. Most word processing programs have a Font menu that allows you to choose the typeface, size, and style of the text. In order to use a font, you must have it installed on your computer.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "215" : {
+            "alpha" : "fr",
+            "prefix" : "FR",
+            "header" : "Frame rate",
+            "copy" : "Measured in frames per second (FPS), the frame rate of an animation determines how many individual frames play on screen each second. Common standards are 24fps (for cinema), 25fps (for Australian and European television) and 30 fps (for US television), though web video standards vary depending on the site. Frame rates higher than these standards are used for producing smooth slow-motion video, while lower frame rates tend to appear ‘jerky’ to the eye.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "216" : {
+            "alpha" : "f",
+            "prefix" : "F",
+            "header" : "Frequency",
+            "copy" : "The number of times an ad is served to the same consumer during a specific time period. Since multiple users can often access the Internet from the same device, frequency is calculated based on the number of times an ad is delivered to a particular device’s browser.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "217" : {
+            "alpha" : "fc",
+            "prefix" : "FC",
+            "header" : "Frequency Capping",
+            "copy" : "Setting a limit on the amount of times an ad should be shown to a consumer within a specific time period.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "218" : {
+            "alpha" : "faq",
+            "prefix" : "FAQ",
+            "header" : "Frequently asked questions (FAQ)",
+            "copy" : "A self-service format that provides answers to common queries and problems with the hope that customers can get rapid solutions to their problems. If you have a limited number of topics you cover in self-service, then FAQs are often a good fit. If your content spans a lot of complex information, though, you may want to look at other formats for your self-service content. Having too many FAQs is stressful for the reader as it adds extra friction in them finding the relevant answer at the quickest opportunity.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "219" : {
+            "alpha" : "fgr",
+            "prefix" : "FGR",
+            "header" : "Frequently Given Response (FGR)",
+            "copy" : "Just as frequently asked questions (FAQs) are the queries you get most often from customers, your frequently given responses (FGRs) are the replies you most often send in response. When you’re writing FGRs to cut down on response times to common questions, think of every possible solution you can (without overwhelming) so you hopefully don’t need to carry out further exchanges. In other words, have a few FGRs in your arsenal so you can move onto more pressing and complicated service requests. You can automate FGRs using macros as well.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "220" : {
+            "alpha" : "fl",
+            "prefix" : "FL",
+            "header" : "Front line",
+            "copy" : "Your customer-facing support team, or front line, are the people who interact directly with your customers on a day-to-day basis. It’s one of the many touchpoint customers will have along the course of their lifecycle with your company. The front line is made of the people that represent your brand and who clients remember most clearly when they are thinking of what kind of customer service experience they received.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "221" : {
+            "alpha" : "f",
+            "prefix" : "F",
+            "header" : "Froyo",
+            "copy" : "Android 'Froyo' is a codename of the Android mobile operating system developed by Google, spanning versions between 2.2 and 2.2.3.Those versions are no longer supported. It was unveiled on May 20, 2010, during the Google I/O 2010 conference. One of the most prominent changes in the Froyo release was USB tethering and Wi-Fi hotspot functionality.Other changes include support for the Android Cloud to Device Messaging (C2DM) service, enabling push notifications, Additional application speed improvements, implemented through JIT compilation[3] and displayed within applications as top-of-the-screen banners.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "222" : {
+            "alpha" : "ftp",
+            "prefix" : "FTP",
+            "header" : "FTP",
+            "copy" : "FTP is an acronym for File Transfer Protocol. As the name suggests, FTP is used to transfer files between computers on a network. You can use FTP to exchange files between computer accounts, transfer files between an account and a desktop computer, or access online software archives.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "223" : {
+            "alpha" : "g",
+            "prefix" : "G",
+            "header" : "Gamification",
+            "copy" : "How can you make being a customer support agent fun and cut down on burnout? Through gamification. By adding a little competition for tasks like responding to cases quickly and getting positive feedback from customers, support managers can keep their reps motivated on the job. Some teams do this with a points system, while others have scoreboards and recognition programs in place to give teams something to work toward. But beware: gamification doesn’t work for everyone. If you’re not careful, it can create a toxic, numbers-driven culture that serves to demotivate employees – or worse, turn them against one another.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "224" : {
+            "alpha" : "g",
+            "prefix" : "G",
+            "header" : "GEOCAST",
+            "copy" : "Geocast refers to the delivery of information to a group of destinations in a network identified by their geographical locations. It is a specialized form of multicast addressing used by some routing protocols for mobile ad hoc networks.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "225" : {
+            "alpha" : "gt",
+            "prefix" : "GT",
+            "header" : "Geo targeting",
+            "copy" : "Displaying (or preventing the display of) content based on automated or assumed knowledge of an end user's position in the real world.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "226" : {
+            "alpha" : "gif",
+            "prefix" : "GIF",
+            "header" : "GIF (Graphic Interchange Format)",
+            "copy" : "The Graphics Interchange Format (better known by its acronym GIF /ˈdʒɪf/ JIF or /ˈɡɪf/ GHIF) is a bitmap image format that was developed by US-based software writer Steve Wilhite while working at the bulletin board service (BBS) provider CompuServe on June 15, 1987[1] and has since come into widespread usage on the World Wide Web due to its wide support and portability.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "227" : {
+            "alpha" : "g",
+            "prefix" : "G",
+            "header" : "Gingerbread",
+            "copy" : "Android 'Gingerbread' is a codename of the Android mobile operating system developed by Google and released in December 2010, for versions that are no longer supported. The Gingerbread release introduced support for near field communication (NFC)—used in mobile payment solutions—and Session Initiation Protocol (SIP)—used in VoIP internet telephony. Gingerbread's user interface was refined in many ways, making it easier to master, faster to use, and more power-efficient. A simplified color scheme with a black background gave vividness and contrast to the notification bar, menus, and other user interface components. Improvements in menus and settings resulted in easier navigation and system control.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "228" : {
+            "alpha" : "g",
+            "prefix" : "G",
+            "header" : "GNOME",
+            "copy" : "GNOME (pronounced /ɡnoʊm/ or /ˈnoʊm/ is a desktop environment composed of free and open-source software that runs on Linux and most BSD derivatives. GNOME was originally an acronym for GNU Network Object Model Environment but the acronym was dropped because it no longer reflected the vision of the GNOME project. GNOME is developed by The GNOME Project, which is composed of both volunteers and paid contributors, the largest corporate contributor being Red Hat. It is an international project that aims to develop software frameworks for the development of software, to program end-user applications based on these frameworks, and to coordinate efforts for internationalisation and localisation and accessibility of that software. GNOME is part of the GNU Project.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "229" : {
+            "alpha" : "g",
+            "prefix" : "G",
+            "header" : "GNU",
+            "copy" : "The GNU Project /ɡnuː/ (About this sound listen) is a free-software, mass-collaboration project, first announced on September 27, 1983 by Richard Stallman at MIT. Its aim is to give computer users freedom and control in their use of their computers and computing devices, by collaboratively developing and providing software that is based on the following freedom rights: users are free to run the software, share it (copy, distribute), study it and modify it. GNU software guarantees these freedom-rights legally (via its license), and is therefore free software; the use of the word 'free' always being taken to refer to freedom.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "230" : {
+            "alpha" : "g",
+            "prefix" : "G",
+            "header" : "Google Chrome",
+            "copy" : "A software program with a graphical interface that people use to navigate all the information available on the World Wide Web. Examples include Firefox, Chrome, and Internet Explorer.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "231" : {
+            "alpha" : "gd",
+            "prefix" : "GD",
+            "header" : "Google Drive",
+            "copy" : "Safely store all of your company’s data in one place. Access files easily from desktop and mobile devices and control how teams share them.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "232" : {
+            "alpha" : "gg",
+            "prefix" : "GG",
+            "header" : "Google Gmail",
+            "copy" : "A Gmail account is a free Google Account with an email address that ends in @gmail.com. From the Gmail mailbox, users can also access Google Docs, Google Calendar and Google Sites. The account also allows users to instantly login to the dozens of other Google applications like Picasa, Blogger and Maps.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "233" : {
+            "alpha" : "ge",
+            "prefix" : "GE",
+            "header" : "Gross exposures",
+            "copy" : "The total number of times an ad is served, including duplicate downloads to the same person.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "234" : {
+            "alpha" : "ge",
+            "prefix" : "GE",
+            "header" : "Graph Editor",
+            "copy" : "A graph view of the velocity or trajectory of computerised keyframes. As the path of one keyframe to another can be linear, eased in, eased out, or take on any manner of bezier curve velocity, this graph allows for easy viewing and editing of the curves of each keyframe to ensure just the right timing from one keyframe to the next.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "235" : {
+            "alpha" : "gui",
+            "prefix" : "GUI",
+            "header" : "GUI",
+            "copy" : "The graphical user interface (GUI /ɡuːiː/), is a type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation, instead of text-based user interfaces, typed command labels or text navigation. GUIs were introduced in reaction to the perceived steep learning curve of command-line interfaces (CLIs),which require commands to be typed on a computer keyboard.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "236" : {
+            "alpha" : "h",
+            "prefix" : "H",
+            "header" : "Hit",
+            "copy" : "When users access a Web site, their computer sends a request to the site's server to begin downloading a page. Each element of a requested page (including graphics, text, and interactive items) is recorded by the site's Web server log file as a 'hit'. If a page containing two graphics is accessed by a user, those hits will be recorded once for the page itself and once for each of the graphics. Webmaster use hits to measure their servers' workload. Because page designs and visit patterns vary from site to site, the number of hits bears no relationship to the number of pages downloaded, and is therefore a poor guide for traffic measurement. ",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "237" : {
+            "alpha" : "hfp",
+            "prefix" : "HFP",
+            "header" : "High-fidelity prototype",
+            "copy" : "A prototype which is quite close to the final product, with lots of detail and a good indication of the final proposed aesthetics and functionality.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "238" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1616,7 +1904,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "239" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1624,7 +1912,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "240" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1632,7 +1920,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "241" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1640,7 +1928,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "242" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1648,7 +1936,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "243" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1656,7 +1944,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "244" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1664,7 +1952,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "245" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1672,7 +1960,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "246" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1680,7 +1968,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "247" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1688,7 +1976,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "248" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1696,7 +1984,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "249" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1704,7 +1992,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "250" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1712,7 +2000,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "251" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1720,7 +2008,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "252" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1728,7 +2016,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "253" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1736,7 +2024,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "254" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1744,7 +2032,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "255" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1752,7 +2040,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "256" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1760,7 +2048,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "257" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1768,7 +2056,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "258" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1776,7 +2064,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "259" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1784,7 +2072,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "260" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1792,7 +2080,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "261" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1800,7 +2088,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "262" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1808,7 +2096,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "263" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1816,7 +2104,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "264" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1824,7 +2112,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "265" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1832,7 +2120,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "266" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1840,7 +2128,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "267" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1848,7 +2136,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "268" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1856,7 +2144,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "269" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1864,7 +2152,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "270" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1872,7 +2160,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "271" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1880,7 +2168,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "272" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1888,7 +2176,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "273" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1896,7 +2184,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "274" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1904,7 +2192,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "275" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1912,7 +2200,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "276" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1920,7 +2208,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "277" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1928,7 +2216,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "278" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1936,7 +2224,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "279" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1944,7 +2232,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "280" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1952,7 +2240,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "281" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1960,7 +2248,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "282" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1968,7 +2256,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "283" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1976,7 +2264,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "284" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1984,7 +2272,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "285" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1992,7 +2280,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "286" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -2000,7 +2288,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "287" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -2008,7 +2296,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "288" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -2016,7 +2304,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
+        "289" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -2024,15 +2312,7 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
-            "userContributed" : false,
-            "userID" : ""
-        },
-        "" : {
+        "290" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
