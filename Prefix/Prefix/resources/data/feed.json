@@ -849,342 +849,510 @@
             "userID" : ""
         },
         "107" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cm",
+            "prefix" : "CM",
+            "header" : "Content management",
+            "copy" : "The suite of processes and technologies that support the collection, management, and publication of information in any medium.",
             "userContributed" : false,
             "userID" : ""
         },
         "108" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ca",
+            "prefix" : "CA",
+            "header" : "Contextual Ads",
+            "copy" : "Existing contextual ad engines deliver text and image ads to non-search content pages. Ads are matched to keywords extracted from content. Advertisers can leverage existing keyboard-based paid search campaigns and gain access to a larger audience.",
             "userContributed" : false,
             "userID" : ""
         },
         "109" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ce",
+            "prefix" : "CE",
+            "header" : "Contextual enquiry",
+            "copy" : "Interviewing users in the location that they use the website or app, in order to understand their tasks and challenges.",
             "userContributed" : false,
             "userID" : ""
         },
         "110" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ct",
+            "prefix" : "CT",
+            "header" : "Contextual Targeting",
+            "copy" : "Selecting audiences based on the type of content being displayed on a particular webpage.",
             "userContributed" : false,
             "userID" : ""
         },
         "111" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "c",
+            "prefix" : "C",
+            "header" : "Conversion",
+            "copy" : "When launching a campaign, advertisers select a specific action or set of actions they want audiences to take. Each time a member of the audience takes this action, it is counted as a conversion. Conversions include actions such as signing up for a newsletter, or making a purchase on a website.",
             "userContributed" : false,
             "userID" : ""
         },
         "112" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cp",
+            "prefix" : "CP",
+            "header" : "Conversion Pixel",
+            "copy" : "A 1×1 image pixel placed on a web page (such as a thank-you page) which is triggered whenever a conversion occurs. Usually transparent.",
             "userContributed" : false,
             "userID" : ""
         },
         "113" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cr",
+            "prefix" : "CR",
+            "header" : "Conversion Rate",
+            "copy" : "Expressed as a percentage, a conversion rate can be calculated in two ways - The first is by the taking the number of users who completed the conversion and dividing it by the total number of impressions served. The second, more common way, is by taking the number of users who completed the conversion and dividing it by the total number of users who clicked on the ad.",
             "userContributed" : false,
             "userID" : ""
         },
         "114" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ct",
+            "prefix" : "CT",
+            "header" : "Conversion Tracking",
+            "copy" : "Monitoring how many conversions have occurred during any specific time period, and analysing which ads led to the conversions.",
             "userContributed" : false,
             "userID" : ""
         },
         "115" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "c",
+            "prefix" : "C",
+            "header" : "Cookies",
+            "copy" : "A small text file sent which includes an anonymous unique identifier and visit information that is sent to a browser from a website and stored on a visitor’s computer hard drive. This data can provide information about who visits the website, how often they visit, what parts of the site they visit the most and their preferences.",
             "userContributed" : false,
             "userID" : ""
         },
         "116" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "c",
+            "prefix" : "C",
+            "header" : "Copy",
+            "copy" : "Text in an ad, or text written to be delivered audibly.",
             "userContributed" : false,
             "userID" : ""
         },
         "117" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cpa",
+            "prefix" : "CPA",
+            "header" : "CPA (Cost-per-Action)",
+            "copy" : "Cost of advertising based on a visitor taking some specifically defined action in response to an ad. 'Actions' include such things as a sales transaction, a customer acquisition, or a click.",
             "userContributed" : false,
             "userID" : ""
         },
         "118" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cpc",
+            "prefix" : "CPC",
+            "header" : "CPC (Cost-per-Customer)",
+            "copy" : "The cost an advertiser pays to acquire a customer.",
             "userContributed" : false,
             "userID" : ""
         },
         "119" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cpc",
+            "prefix" : "CPC",
+            "header" : "CPC (Cost-per-click)",
+            "copy" : "Cost of advertising based on the number of clicks received.",
             "userContributed" : false,
             "userID" : ""
         },
         "120" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cpl",
+            "prefix" : "CPL",
+            "header" : "CPL (Cost-per-lead)",
+            "copy" : "Cost of advertising based on the number of database files (leads) received.",
             "userContributed" : false,
             "userID" : ""
         },
         "121" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cpm",
+            "prefix" : "CPM",
+            "header" : "CPM (Cost-per-thousand)",
+            "copy" : "Media term describing the cost of 1,000 impressions. For example, a Web site that charges $1,500 per ad and reports 100,000 visits has a CPM of $15 ($1,500 divided by 100).",
             "userContributed" : false,
             "userID" : ""
         },
         "122" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "c",
+            "prefix" : "C",
+            "header" : "Crawler",
+            "copy" : "A software program which visits Web pages to build indexes for search engines. See also spider, bot, and intelligent agent.",
             "userContributed" : false,
             "userID" : ""
         },
         "123" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "c",
+            "prefix" : "C",
+            "header" : "Crowdsourcing",
+            "copy" : "Taking a task that would conventionally be performed by a contractor or employee and turning it over to a typically large, undefined group of people via an open call for responses.",
             "userContributed" : false,
             "userID" : ""
         },
         "124" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "crm",
+            "prefix" : "CRM",
+            "header" : "CRM",
+            "copy" : "Customer Relationship Management. Business practices that foster customer care, loyalty, and/or customer support.",
             "userContributed" : false,
             "userID" : ""
         },
         "125" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cdt",
+            "prefix" : "CDT",
+            "header" : "Cross-Device Targeting",
+            "copy" : "Serving the same buyer targeted ads across multiple devices. Cross-device targeting allows advertisers to reach their audiences in a sequential, repetitive manner regardless of the device they’re on, whether it’s a tablet, desktop or smartphone. This has a similar effect to the old-school tactics of gaining reach and frequency through using a range of channels such as radio + newspaper + billboards + direct mail.",
             "userContributed" : false,
             "userID" : ""
         },
         "126" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cs",
+            "prefix" : "CS",
+            "header" : "C Sharp",
+            "copy" : "C Sharp, like C++, has its roots in C. Also written C#, the language was developed by Microsoft in 2000 and is used extensively in its .NET framework. C Sharp is a compiled high-level language and runs on Windows only. C Sharp is used for desktop software on Windows platforms, and also forms the basis of Microsoft's ASP.NET web development framework.",
             "userContributed" : false,
             "userID" : ""
         },
         "127" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "css",
+            "prefix" : "CSS",
+            "header" : "CSS",
+            "copy" : "Cascading Style Sheets (CSS) are the code that developers use to designate how a web page should be presented to the end user. It formats the look and feel of your website, and sets global styles for fonts, colors, images, menus, etc.",
             "userContributed" : false,
             "userID" : ""
         },
         "128" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "csv",
+            "prefix" : "CSV",
+            "header" : "CSV",
+            "copy" : "CSV is a simple file format used to store tabular data, such as a spreadsheet or database. Files in the CSV format can be imported to and exported from programs that store data in tables, such as Microsoft Excel or OpenOffice Calc. CSV stands for 'comma-separated values'.",
             "userContributed" : false,
             "userID" : ""
         },
         "129" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cui",
+            "prefix" : "CUI",
+            "header" : "CUI",
+            "copy" : "Short for character user interface or command-line user interface, CUI is a prompt used to interact with computer programs. It works by allowing the user (client) to issue commands as one or more lines of text (referred to as command lines) to a program.",
             "userContributed" : false,
             "userID" : ""
         },
         "130" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "c",
+            "prefix" : "C",
+            "header" : "Cupcake",
+            "copy" : "Android 1.5 Cupcake is the third Android version developed by Google, a major platform release deployable to Android-powered handsets starting in May 2009, that is no longer supported. The release includes new features for users and developers, as well as changes in the Android framework API. For developers, the Android 1.5 platform is available as a downloadable component for the Android SDK.",
             "userContributed" : false,
             "userID" : ""
         },
         "131" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ca",
+            "prefix" : "CA",
+            "header" : "Customer Advocacy",
+            "copy" : "Customer advocacy is a specialised form of customer service in which companies focus on what is best for the customer. It is a change in a company’s culture that is supported by customer-focused customer service and marketing techniques.",
             "userContributed" : false,
             "userID" : ""
         },
         "132" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ca",
+            "prefix" : "CA",
+            "header" : "Customer Analytics",
+            "copy" : "Customer analytics is a process by which data from customer behaviour is used to help make key business decisions via market segmentation and predictive analytics. Data is collected from various touch-points a customer has with the organisation and then analysed to give insights about consumer behaviour. In today’s connected world where customer has immense power, it is extremely important for organisation to use analytics to get closer to the customer.",
             "userContributed" : false,
             "userID" : ""
         },
         "133" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "car",
+            "prefix" : "CAR",
+            "header" : "Customer Attrition Rate",
+            "copy" : "It is the number of customers lost divided by the number at the start of the period and is typically expressed as a percentage (%) of all customers and on a monthly or annual basis. So for the customer attrition rate you would divide the number of customer lost by the total number of customers at the start of the period.Customer Attrition rate is also the compliment of Customer Retention rate. If a company has a 20% attrition rate it will have an 80% retention rate.It is an important variable to track in your business as it indicates how many new sales you have to make just to keep up with your losses.Sometimes it can be difficult to determine when a customer has left, especially in a retail environment but there are ways around this problem.",
             "userContributed" : false,
             "userID" : ""
         },
         "134" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cd",
+            "prefix" : "CD",
+            "header" : "Customer Database",
+            "copy" : "The repository for all of your customer information within your support platform. Your customer database stores not only customer contact information (address, phone number, email), but also information on their organisations, preferences, and previous support interactions. Facebook was built to make that information readily available, so that each time an agent talks to a customer, they can quickly brush up on helpful context like recent support requests, purchases, or Help Center activity.",
             "userContributed" : false,
             "userID" : ""
         },
         "135" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ccd",
+            "prefix" : "CCD",
+            "header" : "Customer Centered Design (CCD)",
+            "copy" : "Sometimes called user-centric design, customer-centric design is the process of framing your product or service around the needs, wants, and limitations of end users – both in terms of design and quality of your product, service, or content.",
             "userContributed" : false,
             "userID" : ""
         },
         "136" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cc",
+            "prefix" : "CC",
+            "header" : "Customer Centric (also customer centricity)",
+            "copy" : "This is all about focusing on a customer. Specifically, if a business says that its goal is around customer centricity, what they are saying is that they are dedicated or pursuing the focus of customers at the centre of their operations, philosophy or ideas. Simply put it is about focusing on the customer.",
             "userContributed" : false,
             "userID" : ""
         },
         "137" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cco",
+            "prefix" : "CCO",
+            "header" : "Customer Centric Organisation",
+            "copy" : "As the name suggests, Customer-centric organisations are ones, which have succeeded in keeping the customer at the centre of their organisation. They spend energy and effort on satisfying internal and external customers by first identifying customer needs, then establishing policies, procedures, and management and reward systems to support excellence in service delivery.They have moved beyond lip service and have re-oriented their operations, their decision making around the customer. This has resulted in increased customer satisfaction, higher advocacy along with higher profits.",
             "userContributed" : false,
             "userID" : ""
         },
         "138" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cc",
+            "prefix" : "CC",
+            "header" : "Customer Charter",
+            "copy" : "It is a document that sets the standards for a company regarding customer service. It is also known as a code of practice, which improves access to an organization’s service and promotes quality. A customer charter also helps employees too by clearly setting out services their organisation provides.",
             "userContributed" : false,
             "userID" : ""
         },
         "139" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cd",
+            "prefix" : "CD",
+            "header" : "Customer Delight / Customer Wow",
+            "copy" : "What is customer delight? It’s the little things, so the saying goes. Customer delight and customer wow refer to the ways in which your team surprises customers by providing service that exceeds expectations. Things like responding to complaints quickly, unexpected credits or perks, and being willing to occasionally make exceptions are some of the ways agents can wow and delight.",
             "userContributed" : false,
             "userID" : ""
         },
         "140" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cd",
+            "prefix" : "CD",
+            "header" : "Customer Driven",
+            "copy" : "Often you may hear terms such as “customer driven change” or “customer driven marketing”, this is all about offerings, strategies, and plans that are driven by customer demand, or expectation.",
             "userContributed" : false,
             "userID" : ""
         },
         "141" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cdms",
+            "prefix" : "CDMS",
+            "header" : "Customer Driven Marketing Strategy",
+            "copy" : "A marketing strategy that focuses on targeting a specific set of customers, retaining them by meeting their needs, and using metrics to measure their satisfaction. Being customer-driven in your marketing (and really, in every aspect of your customer’s journey) creates loyalty, because you repeatedly show them that you care about their needs.",
             "userContributed" : false,
             "userID" : ""
         },
         "142" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ce",
+            "prefix" : "CE",
+            "header" : "Customer Engagement",
+            "copy" : "Customer engagement is the engagement of customers with one another, with a company or a brand. The initiative for engagement can be either consumer- or company-led and the medium of engagement can be on or offline. Customer engagement can help organisations to understand their customers, their needs, and increase advocacy.",
             "userContributed" : false,
             "userID" : ""
         },
         "143" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ces",
+            "prefix" : "CES",
+            "header" : "Customer Effort Score (CES)",
+            "copy" : "This metric shows how much effort the customer thinks they had to put in to have their problem resolved. It’s a survey question “How easy was it for you to get your problem solved?” (scale of 1 to 5). Knowing your CES allows you to see what needs to be done to improve the way your support team interacts with your customers. It is a strong predictor of future customer loyalty – those with high effort scores are less likely to become return customers.",
             "userContributed" : false,
             "userID" : ""
         },
         "144" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ce",
+            "prefix" : "CE",
+            "header" : "Customer Expectations",
+            "copy" : "The perceptions that customers have when they contact an organisation or service provider about the kind and level and quality of products and services they should receive. These expectations are a factor of customers’ own previous experience with the organisation or the experience of their friends.",
             "userContributed" : false,
             "userID" : ""
         },
         "145" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ce",
+            "prefix" : "CE",
+            "header" : "Customer Experience",
+            "copy" : "This is a very broadly used term, and can have multiple definitions. Here we have gone for how we define customer experience and what it is commonly referred to. Customer experience is the term used to describe the interactions between a customer and a brand/business over the lifetime of the relationship. Interactions in this definition is every point of contact that a customer has with your brand (phone call, purchasing a product) and your product. Also included in this are the perceptions held about your brand/product. Customers’ perception of their experience at various touch-points across their lifecycle with an organisation. Please note that it is the “perception” of Customers and hence, is based on their experience of the product/service.There are 3 levels of Customer experience./n Functional – Do you have what customers wants? /n Accessible – How easy it is for customers to do business with you? /n Emotional – How do customers feel while doing business with you?",
             "userContributed" : false,
             "userID" : ""
         },
         "146" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cem",
+            "prefix" : "CEM",
+            "header" : "Customer Experience Management (CEM)",
+            "copy" : "Customer Experience Management (CEM) is a process or concept that involves improving an organisation’s relationship with its customers through the management and measurement of customer interactions. Companies who manage customer experience well utilise technology, strategies and resources to improve customer satisfaction and loyalty, which ultimately leads to an increase in revenue. Happy customers = returning customers.",
             "userContributed" : false,
             "userID" : ""
         },
         "147" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "cep",
+            "prefix" : "CEP",
+            "header" : "Customer Experience Program",
+            "copy" : "A Customer Experience Program essentially is a program that is run with the aim of improving the customer experience. When we explain a customer experience program to clients we explain it as utilising technology, strategies, and processes to positively affect the customer experience. Furthermore, a good customer experience program will enable you to measure and analyse customer feedback and experiences. An even better program will enable you to take immediate action on that feedback in order to improve the customer experience in real time. This is where having a closed loop feedback system is important.",
             "userContributed" : false,
             "userID" : ""
         },
         "148" : {
-            "alpha" : "",
-            "prefix" : "",
-            "header" : "",
-            "copy" : "",
+            "alpha" : "ces",
+            "prefix" : "CES",
+            "header" : "Customer Experience Strategy",
+            "copy" : "It is the strategy to achieve the desired level of Customer Experience. As per a survey, only 20% companies have a well defines Customer Experience Strategy. A detailed CE Strategy makes sure that every employee has same understanding of desired Customer Experience. It acts as a guiding like when managers face business decisions on day-to-day basis.",
             "userContributed" : false,
             "userID" : ""
         },
         "149" : {
+            "alpha" : "cf",
+            "prefix" : "CF",
+            "header" : "Customer Feedback",
+            "copy" : "Customers’ opinion about the product/service of an organisation. It can be collected using surveys, or proactively listening to what customers are talking on social media.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "150" : {
+            "alpha" : "ci",
+            "prefix" : "CI",
+            "header" : "Customer Insights",
+            "copy" : "Collecting customer insight is like an eye-opening piece of wisdom or conclusion. Insight is gleaned from extensive company research into customers’ experiences, preferences and behaviours that is used to make decisions. Having true knowledge of who your customers are and a deep understanding of the market you’re in. Insights are gathered, for example, through outreach calls and surveys that ask customers what their biggest frustrations are with your products, what improvements they’d most like to see and how products are meeting their needs. Understanding customer insights beyond just knowing the hard numbers can make or break your strategic initiatives and decision-making processes.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "151" : {
+            "alpha" : "ci",
+            "prefix" : "CI",
+            "header" : "Customer Information",
+            "copy" : "From names and contact information to order histories and activity logs, stored customer information help organisations understand who they’re serving and give them better service. Some companies keep track of more information than others (ever wonder why that website started making eerily accurate recommendations based on your recent searches?), but all aim to make the customer experience more personalised and efficient.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "152" : {
+            "alpha" : "cj",
+            "prefix" : "CJ",
+            "header" : "Customer Journey",
+            "copy" : "The customer journey is the culmination of all the experiences that your customers go through when interacting with your company or brand. It covers the entire process from the initial need/awareness, to initial contact with your company, all the way through purchasing. It is the entire experience of being a customer.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "153" : {
+            "alpha" : "cjm",
+            "prefix" : "CJM",
+            "header" : "Customer Journey Mapping",
+            "copy" : "It is the depiction of a customer’s journey with an organisation. A customer journey map should include all touch-points that customers have with the organisation. It helps in giving a holistic view of customers’ lifecycle and ensures that organisations deliver good Customer Experience to move forward in a Customer’s consideration set.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "154" : {
+            "alpha" : "cjm",
+            "prefix" : "CJM",
+            "header" : "Customer Journey Map",
+            "copy" : "an holistic, visual representation of your users’ interactions with your organisation when zoomed right out (usually captured on a large canvas). See also: Experience Map.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "155" : {
+            "alpha" : "cl",
+            "prefix" : "CL",
+            "header" : "Customer Lifecycle",
+            "copy" : "Customer life cycle is a term used to describe the progression of steps a customer goes through when considering, purchasing, using, and maintaining loyalty to a product or service.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "156" : {
+            "alpha" : "clv",
+            "prefix" : "CLV",
+            "header" : "Customer Lifetime Value",
+            "copy" : "Customer lifetime value is a prediction of the net profit attributed to the entire future relationship with a customer.Customer lifetime value is an important concept as it encourages firms to shift their focus from quarterly profits to the long-term health of their customer relationships. Customer lifetime value is an important number because it represents an upper limit on spending to acquire new customers.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "157" : {
+            "alpha" : "cl",
+            "prefix" : "CL",
+            "header" : "Customer Loyalty",
+            "copy" : "How often and how much a customer purchases from you over other providers?",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "158" : {
+            "alpha" : "cms",
+            "prefix" : "CMS",
+            "header" : "Content Management System (CMS)",
+            "copy" : "A software system that is used to control the content on your website. This allows you to login into the “backend” of your website and edit the text and images. Some examples include WordPress and Drupal.  A CMS is designed to simplify the publication of website content, without requiring technical knowledge of HTML or the uploading of files.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "159" : {
+            "alpha" : "crm",
+            "prefix" : "CRM",
+            "header" : "Customer Relationship Management",
+            "copy" : "CRM is an overall strategy to help organisations learn more about their customers and their behaviour. As a result they can develop stronger, lasting relationships, which will benefit them as well as their customers. Customer Relationship Management (CRM) software solutions helps to manage these relationships, using a combination of people, processes and technology. It helps businesses attain and retain happy customers.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "160" : {
+            "alpha" : "cr",
+            "prefix" : "CR",
+            "header" : "Customer Retention",
+            "copy" : "Customer retention is the act of keeping customers.There are many studies that show that keeping customers longer is much less expensive than acquiring new customers with some suggesting that it is up to ten times less expensive to keep a customer than acquire a new one. Customer retention is focused on ways to keep customers longer.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "161" : {
+            "alpha" : "ccs",
+            "prefix" : "CCS",
+            "header" : "Customer Centric Service",
+            "copy" : "Service that is devoted to putting customers first, keeping them happy, and helping them solve problems. Being customer-centric achieves a few things. First, it builds trust. If buyers know that you care about service, stand by your products, and will go above and beyond to address concerns, they’ll feel more comfortable buying from you in the future. Customer-centric service also builds loyalty. When customers experience standout support throughout their entire experience with your brand, they’re more likely to stay and spread the word to their friends and family.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "162" : {
+            "alpha" : "csat",
+            "prefix" : "CSAT",
+            "header" : "Customer Satisfaction Score (CSAT)",
+            "copy" : "Customer satisfaction measures whether your products and service meet or exceed your buyers’ expectations. Many times, customers will leave reviews online or post on social media if they’re very satisfied or unhappy with your product. Companies may also track customer satisfaction through email surveys, phone interviews and focus groups (sometimes in exchange for discounts or free products) to get an idea of how many customers are satisfied, what they need to be more satisfied and if they become more or less happy with a product over time. What is a customer satisfaction score? A customer satisfaction score indicates how satisfied your current customers are with your product or service. This metric shows how happy your customers were with the whole process: from finding out how to contact you, the actual conversations and also any follow-up correspondence you might have sent. It also helps identify pain points in order to see which aspects of your support could be improved. You can get an indication of the quality of replies, too. You can use this information to identify what aspect of your support you can improve.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "163" : {
+            "alpha" : "css",
+            "prefix" : "CSS",
+            "header" : "Customer Satisfaction Survey",
+            "copy" : "A survey conducted to measure the level of Customer satisfaction. It can be administered online, telephonic or face-to-face.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "164" : {
+            "alpha" : "csp",
+            "prefix" : "CSP",
+            "header" : "Customer Service Philosophy",
+            "copy" : "Behind any shining, successful customer service team is a strong customer service philosophy and customer service strategy. A strong customer service philosophy is not something you can create overnight or simply add on top of your business, like the icing on a cake. Instead, a customer service philosophy is a mindset that has to come from the core of the company.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "165" : {
+            "alpha" : "csm",
+            "prefix" : "CSM",
+            "header" : "Customer Support Metrics",
+            "copy" : "Indicators that help you measure whether your support team is doing the best it can to help your customers. These metrics include: Average Wait Times, Average Resolution Times, Customer Churn, Call Abandonment Rate, Percent of Escalations, Customer Satisfaction Scores (CSAT, NPS, etc.)",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "166" : {
+            "alpha" : "cta",
+            "prefix" : "CTA",
+            "header" : "Call to Action (CTA)",
+            "copy" : "Specific text, image, banner or button that uses persuasive, action-oriented words that urges a visitor on a website to act. CTAs are designed to move a visitor from one page to the next and persuade them to take an expected, predetermined action. (e.g. Download a Whitepaper, Register for a Webinar, Contact Us, Learn More, etc.). Examples include phrases such as Click to Read More, Download Your Free eBook Now, or Click Here.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "167" : {
+            "alpha" : "d",
+            "prefix" : "D",
+            "header" : "Data",
+            "copy" : "Computer data is information processed or stored by a computer. This information may be in the form of text documents, images, audio clips, software programs, or other types of data. Computer data may be processed by the computer's CPU and is stored in files and folders on the computer's hard disk.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "168" : {
+            "alpha" : "dv",
+            "prefix" : "DV",
+            "header" : "Data Visualisation",
+            "copy" : "Data visualisation is the presentation of data in a pictorial or graphical way. It enables large data sets to be presented in a way that is easy to visually digest. It enables decision makers to see analytics presented visually so that they can grasp new ideas and identify trends and patterns.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "169" : {
+            "alpha" : "ds",
+            "prefix" : "DS",
+            "header" : "Design stage",
+            "copy" : "The stage in a user-centred design process where ideas for potential solutions are captured and refined visually, based on the analysis and research performed in earlier stages.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "170" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
@@ -1192,7 +1360,687 @@
             "userContributed" : false,
             "userID" : ""
         },
-        "150" : {
+        "171" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "172" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "173" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "174" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "175" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "176" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "177" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "178" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "179" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "180" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "181" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "182" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "183" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "184" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "185" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "186" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "187" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "188" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "189" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "190" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "191" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "192" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "193" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "194" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "195" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "196" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "197" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "198" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "199" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "200" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "201" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "202" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "" : {
             "alpha" : "",
             "prefix" : "",
             "header" : "",
