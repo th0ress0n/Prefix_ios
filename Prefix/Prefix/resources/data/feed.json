@@ -4,61 +4,1201 @@
             "alpha" : "a",
             "prefix" : "A",
             "header" : "Abandonment",
-            "copy" : "When a user leaves a shopping cart with something in it prior to completing the transaction."
+            "copy" : "When a user leaves a shopping cart with something in it prior to completing the transaction.",
+            "userContributed" : false,
+            "userID" : ""
         },
         "2" : {
             "alpha" : "ab",
             "prefix" : "a/b",
             "header" : "a/b testing",
-            "copy" : "This is testing a new technique (A) of online marketing (whether it be PPC or SEO) against a control (B) to see if the new technique is more effective."
+            "copy" : "This is testing a new technique (A) of online marketing (whether it be PPC or SEO) against a control (B) to see if the new technique is more effective.",
+            "userContributed" : false,
+            "userID" : ""
         },
         "3" : {
             "alpha" : "aw",
             "prefix" : "AWD",
             "header" : "Adaptive web design",
-            "copy" : "Like Responsive web design it is an approach to web design aimed at crafting sites to provide an optimal viewing and interaction experience on different screen and devices. The difference is that adaptive design is less fluid then RWD, and ‘serves’ few fixed width versions of the design depending on viewport size. It can utilise server side techniques to ‘detect’ viewport size prior to rendering html. The advantage for designer is that it gives more control over images and typography, and hence is easier approach to ‘retrofit’ fixed width websitest to work on mobile devices."
+            "copy" : "Like Responsive web design it is an approach to web design aimed at crafting sites to provide an optimal viewing and interaction experience on different screen and devices. The difference is that adaptive design is less fluid then RWD, and ‘serves’ few fixed width versions of the design depending on viewport size. It can utilise server side techniques to ‘detect’ viewport size prior to rendering html. The advantage for designer is that it gives more control over images and typography, and hence is easier approach to ‘retrofit’ fixed width websitest to work on mobile devices.",
+            "userContributed" : false,
+            "userID" : ""
         },
         "4" : {
             "alpha" : "aa",
             "prefix" : "AA",
             "header" : "Ad Audience",
-            "copy" : "The total number of people that have been exposed to or could possibly be exposed to an ad during any specific time period."
+            "copy" : "The total number of people that have been exposed to or could possibly be exposed to an ad during any specific time period.",
+            "userContributed" : false,
+            "userID" : ""
         },
         "5" : {
             "alpha" : "ab",
             "prefix" : "AB",
             "header" : "Ad banner",
-            "copy" : "A graphic image or other media object used as an advertisement. "
+            "copy" : "A graphic image or other media object used as an advertisement.",
+            "userContributed" : false,
+            "userID" : ""
         },
         "6" : {
             "alpha" : "ab",
             "prefix" : "AB",
             "header" : "Ad blocker",
-            "copy" : "Software on a user's browser which prevents advertisements from being displayed."
+            "copy" : "Software on a user's browser which prevents advertisements from being displayed.",
+            "userContributed" : false,
+            "userID" : ""
         },
         "7" : {
             "alpha" : "a",
             "prefix" : "A",
             "header" : "Advocacy",
-            "copy" : "A customer-first form of service, where doing right by the customer is the focus across the company, from corporate culture to marketing. The customer quite literally comes first for everyone."
+            "copy" : "A customer-first form of service, where doing right by the customer is the focus across the company, from corporate culture to marketing. The customer quite literally comes first for everyone.",
+            "userContributed" : false,
+            "userID" : ""
         },
         "8" : {
             "alpha" : "ac",
             "prefix" : "AC",
             "header" : "Ad Click",
-            "copy" : "The action taken when a user interacts with an ad by either clicking on it with their mouse or by pressing enter on their keyboard."
+            "copy" : "The action taken when a user interacts with an ad by either clicking on it with their mouse or by pressing enter on their keyboard.",
+            "userContributed" : false,
+            "userID" : ""
         },
         "9" : {
             "alpha" : "ac",
             "prefix" : "ACA",
             "header" : "Ad campaign audit",
-            "copy" : "An activity audit for a specific ad campaign."
+            "copy" : "An activity audit for a specific ad campaign.",
+            "userContributed" : false,
+            "userID" : ""
         },
         "10" : {
             "alpha" : "ac",
             "prefix" : "ACM",
             "header" : "Ad centric measurement",
-            "copy" : "Audience measurement derived from a third-party ad server's own server logs."
+            "copy" : "Audience measurement derived from a third-party ad server's own server logs.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "11" : {
+            "alpha" : "at",
+            "prefix" : "AT",
+            "header" : "Add This",
+            "copy" : "A bookmarking service that gives a code people can use on their websites so when people visit they can share.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "12" : {
+            "alpha" : "ad",
+            "prefix" : "AD/AD",
+            "header" : "Ad display/Ad delivered",
+            "copy" : "When an ad is successfully displayed on the user's computer screen.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "13" : {
+            "alpha" : "ad",
+            "prefix" : "AD",
+            "header" : "Ad Download",
+            "copy" : "when an ad is downloaded by a server to a userâ€˜s browser. Ads can be requested, but aborted or abandoned before actually being downloaded to the browser, and hence there would be no opportunity to see the ad by the user.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "14" : {
+            "alpha" : "ai",
+            "prefix" : "AI",
+            "header" : "Ad impression",
+            "copy" : "An ad which is served to a user's browser. Ads can be requested by the user's browser (referred to as pulled ads) or they can be pushed, such as e-mailed ads.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "15" : {
+            "alpha" : "ai",
+            "prefix" : "AI",
+            "header" : "Ad Inventory",
+            "copy" : "Website publishers serve ads to visitors when they visit a web page. The number of potential ads that can be served is considered their ad inventory. For example, if The Gotham Times averages 1,000 visits to their home page in any given week, and they have space for two display ads on their home page, then their potential ad inventory is 2,000 impressions per week.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "16" : {
+            "alpha" : "au",
+            "prefix" : "AU",
+            "header" : "Ad Uuint ",
+            "copy" : "A size-and-format specification for an ad. The Interactive Advertising Bureau, a trade association promoting digital ad standard and practices, has a set of guidelines for sizes.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "17" : {
+            "alpha" : "an",
+            "prefix" : "AN",
+            "header" : "Ad network",
+            "copy" : "An aggregator or broker of advertising inventory for many sites. Ad networks are the sales representatives for the Web sites within the network. See MediaScope's Guide to Ad Network's in the Australian market.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "18" : {
+            "alpha" : "as",
+            "prefix" : "AS",
+            "header" : "Ad Serving",
+            "copy" : "The delivery of ads by a server to an end user's computer on which the ads are then displayed by a browser and/or cached. Ad serving is normally performed either by a Web publisher or by a third-party ad server. Ads can be embedded in the page or served separately.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "19" : {
+            "alpha" : "as",
+            "prefix" : "AS",
+            "header" : "Ad Sense",
+            "copy" : "Google AdSense is a program run by Google that allows publishers in the Google Network of content sites to serve automatic text, image, video, or interactive media advertisements, that are targeted to site content and audience. These advertisements are administered, sorted, and maintained by Google. They can generate revenue on either a per-click or per-impression basis. Google beta-tested a cost-per-action service, but discontinued it in October 2008 in favour of a DoubleClick offering (also owned by Google). In Q1 2014, Google earned US $3.4 billion ($13.6 billion annualised), or 22% of total revenue, through Google AdSense. AdSense is a participant in the AdChoices program, so AdSense ads typically include the triangle-shaped AdChoices icon. This program also operates on HTTP cookies. Over 14 million websites use AdSense. ",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "20" : {
+            "alpha" : "as",
+            "prefix" : "AS",
+            "header" : "Ad Space",
+            "copy" : "The location on a page of a site in which an advertisement can be placed. Each space on a site is uniquely identified. Multiple ad spaces can exist on a single page.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "21" : {
+            "alpha" : "at",
+            "prefix" : "AT",
+            "header" : "Ad Targeting",
+            "copy" : "Delivering ads to a pre-selected audience based on various attributes, such as geography, demographics, psychographics, web browsing behaviour and past purchases. (Also see: Behavioural Targeting, Contextual Targeting, and Geographic Targeting.)",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "22" : {
+            "alpha" : "av",
+            "prefix" : "AV",
+            "header" : "Ad View",
+            "copy" : "when the ad is actually seen by the user. Note this is not measurable today. The best approximation today is provided by ad displays.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "23" : {
+            "alpha" : "aw",
+            "prefix" : "AW",
+            "header" : "Ad Words",
+            "copy" : "The technology that powers Google’s PPC advertising. It facilitates targeting adverts to specific searches, and the adverts appear above and to the right of the organic searches. To find out more about Adwords see our Pay Per Click information page.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "24" : {
+            "alpha" : "ae",
+            "prefix" : "AE",
+            "header" : "Ad Exchange",
+            "copy" : "A technology-facilitated marketplace that allows Internet publishers and advertisers to buy and sell advertising inventory in real-time auctions.Ad exchanges are a departure from the historical method of buying ad inventory, where advertisers and publishers would enter price negotiations in order to show ads on a particular website. With an ad exchange, an auction is conducted in real-time, providing instantaneous bidding for ad space that’s available across the Internet.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "25" : {
+            "alpha" : "am",
+            "prefix" : "AM",
+            "header" : "Affiliate Marketing",
+            "copy" : "an agreement between two sites in which one site (the affiliate) agrees to feature content or an ad designed to drive traffic to another site. In return, the affiliate receives a percentage of sales or some other form of compensation generated by that traffic.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "26" : {
+            "alpha" : "ad",
+            "prefix" : "AD",
+            "header" : "Affinity Diagramming",
+            "copy" : "A business tool used to organise a large number of ideas, sorting them into groups based on their natural relationships, for review and analysis. ",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "27" : {
+            "alpha" : "a",
+            "prefix" : "A",
+            "header" : "Agent",
+            "copy" : "Agents are people dedicated to answering customer queries about a product or service. They are the face and voice of the company and have a better understanding of customer needs than most other people in the company. Most companies have dedicated support agents but in small companies or startups, developers, product managers and sometimes, even the CEO double up as an agent. Most cloud-based help desks are priced based on the number of agents using them. They can also be called support representatives or, less romantically, seats.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "28" : {
+            "alpha" : "asdm",
+            "prefix" : "ASDM",
+            "header" : "Agile software development methodology",
+            "copy" : "A methodology fundamentally incorporating iteration and continuous feedback to refine and deliver a software system. It involves continuous planning, testing, integration, and other forms of continuous evolution of both the project and the software.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "29" : {
+            "alpha" : "ai",
+            "prefix" : "AI",
+            "header" : "Artificial intelligence",
+            "copy" : "Artificial intelligence (AI, also machine intelligence, MI) is intelligence exhibited by machines, rather than humans or other animals (Natural Intelligence, NI).",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "30" : {
+            "alpha" : "ai",
+            "prefix" : "AI",
+            "header" : "Alexa Internet",
+            "copy" : "A website and toolbar that tracks the number of hits (visitors) to a particular website and ranks them based on this amount.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "31" : {
+            "alpha" : "at",
+            "prefix" : "AT",
+            "header" : "Alternate Text",
+            "copy" : "a word or phrase that is displayed when a user has image loading disabled in their browser or when a user abandons a page by hitting 'stop' in their browser prior to the transfer of all images.  Also appears as 'balloon text' – when a user lets their mouse rest over an image. ",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "32" : {
+            "alpha" : "alt",
+            "prefix" : "ALT",
+            "header" : "ALT attribute",
+            "copy" : "Used to specify the alternate text that is displayed inside the image placeholder while the page is loading. ALT text plays a role in optimizing a website for SEO, ADA compliance and overall web accessibility.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "33" : {
+            "alpha" : "ag",
+            "prefix" : "AG",
+            "header" : "Animated GIF",
+            "copy" : "An animation created by combining multiple GIF images in one file. The result is multiple images, displayed sequentially, giving the appearance of movement.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "34" : {
+            "alpha" : "as",
+            "prefix" : "AS",
+            "header" : "Analysis Stage",
+            "copy" : "The stage of the UX process where insights are drawn from data collecting during the earlier Research stage. Capturing, organising and making inferences from the “what” can help UX designers begin to understand the “why”.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "35" : {
+            "alpha" : "a",
+            "prefix" : "A",
+            "header" : "Analytics",
+            "copy" : "Data and statistics about the users of a website and how they interact with the website. Analytics can be used to uncover information about how many people browse a website, how much time they spend on the website and the specific actions they take on the website.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "36" : {
+            "alpha" : "a",
+            "prefix" : "A",
+            "header" : "Android",
+            "copy" : "Android is a mobile operating system which is found on a variety of modern devices, the most popular being smartphones. On top of that, you'll also find Android on tablets, TV streaming boxes and other portable gadgets. Android is basically a piece of software which allows your hardware to function. The Android OS gives you access to apps, including many of Google's own creation. These allow you to look for information on the web, play music and videos, check your location on a map, take photos using your device's camera and plenty more besides.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "37" : {
+            "alpha" : "ajs",
+            "prefix" : "A JS",
+            "header" : "Angular JS",
+            "copy" : "Google’s Angular JavaScript programming framework has emerged as one of the dominant tools in Web application development over the last couple of years. It has faced some stiff competition from Facebook’s React framework. In order to narrow the gap, Google is now working on a variety of significant improvements to improve performance and streamline application development.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "38" : {
+            "alpha" : "aa",
+            "prefix" : "AA",
+            "header" : "Anti-aliasing",
+            "copy" : "In computer graphics, antialiasing is a software technique for diminishing jaggies - stairstep-like lines that should be smooth. Jaggies occur because the output device, the monitor or printer, doesn't have a high enough resolution to represent a smooth line.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "39" : {
+            "alpha" : "ac",
+            "prefix" : "AC",
+            "header" : "Anycast",
+            "copy" : "Anycast is a network addressing and routing method in which datagrams from a single sender are routed to any one of several destination nodes, selected on the basis of which is the nearest, lowest cost, healthiest, with the least congested route, or some other distance measure.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "40" : {
+            "alpha" : "a",
+            "prefix" : "A",
+            "header" : "Apache",
+            "copy" : "Apache is a freely available Web server that is distributed under an 'open source' license. Version 2.0 runs on most UNIX-based operating systems (such as Linux, Solaris, Digital UNIX, and AIX), on other UNIX/POSIX-derived systems (such as Rhapsody, BeOS, and BS2000/OSD), on AmigaOS, and on Windows 2000. According to a Netcraft (www.netcraft.com) Web server survey 60% of all Web sites on the Internet are using Apache (62% including Apache derivatives), making Apache more widely used than all other Web servers combined.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "41" : {
+            "alpha" : "a",
+            "prefix" : "A",
+            "header" : "App",
+            "copy" : "Short for application, an app performs a function on your mobile phone or computer.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "42" : {
+            "alpha" : "a",
+            "prefix" : "A",
+            "header" : "API",
+            "copy" : "Think of Application Program Interfaces (APIs) like toolboxes. They’re sets of different commands, codes, and protocols used to build software applications and make applications talk to each other. We can’t see them, but they’re there in the background of everything we do on a computer. API stands for application programming interface. As it’s a rather complicated concept, let’s break it down by looking at each of its parts. Application Programming Interface, a document interface that allows software applications to interact with other applications. For an example the Twitter API.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "43" : {
+            "alpha" : "an",
+            "prefix" : "AN",
+            "header" : "ASP.NET",
+            "copy" : "ASP.NET (originally called ASP+) is the next generation of Microsoft's Active Server Page (ASP), a feature of their Internet Information Server (IIS). Both ASP and ASP.NET allow a Web site builder to dynamically build Web pages on the fly by inserting queries to a relational database in the Web page. ASP.NET is different than its predecessor in two major ways: it supports code written in compiled languages such as Visual Basic, C++, C#, and Perl, and it features server controls that can separate the code from the content, allowing WYSIWYG editing of pages. Although ASP.NET is not backwards compatible with ASP, it is able to run side by side with ASP applications. ASP.NET files can be recognised by their .aspx extension.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "44" : {
+            "alpha" : "at",
+            "prefix" : "AT",
+            "header" : "At tag (@)",
+            "copy" : "The @ symbol is used in email, but it is now also being used to tag users in messages on social networking websites. Both Twitter and Facebook use the @ tag.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "45" : {
+            "alpha" : "a",
+            "prefix" : "A",
+            "header" : "Attribution",
+            "copy" : "The goal of attribution is to identify which touch, of the many possible, is most (or partially) responsible for a conversion, so ROI can be calculated. First touch, last touch, and multi-touch are common attribution models. For example, a sale might begin with an ad, lead to an email campaign, and end with a phone call from a sales person. With first-touch attribution, the ad would get the entire credit for the sale. With last-touch, the phone call gets all the credit. With multi-touch, the ad, the email and the phone call each get partial credit.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "46" : {
+            "alpha" : "a",
+            "prefix" : "A",
+            "header" : "Audit",
+            "copy" : "Third party validation of log activity and/or measurement process associated with Internet activity/advertising. Activity audits validate measurement counts. Process audits validate internal controls associated with measurement.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "47" : {
+            "alpha" : "a",
+            "prefix" : "A",
+            "header" : "Automations",
+            "copy" : "Automations (also known as 'business rules' or 'automation rules') allow you to automate common tasks on particular subsets of cases. One of the most common uses for automations is to build workflows that help move cases their arrival in the support queue through to a speedy and satisfactory resolution. You build automations by first specifying a set of criteria and then defining an action the automation should take. For example, you could build an automation that would look for any cases assigned to your sales team that are set to high priority, and then email the sales team lead with a notification about the case.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "48" : {
+            "alpha" : "a",
+            "prefix" : "A",
+            "header" : "Avatar",
+            "copy" : "A graphical representation of an individual in a game or other virtual world or environment.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "49" : {
+            "alpha" : "aht",
+            "prefix" : "AHT",
+            "header" : "Average Handle Time (AHT)",
+            "copy" : "What is average handle time? This is the total average duration of a single interaction, including hold time, talk time, and the follow-up or related admin tasks. It also relates to chats and cases. A long AHT will show areas consistently causing problems and highlights which queries are costing your team the most time. It also helps forecast hiring needs — if you know your AHT and the number of cases you receive, you can work out how many hours it will take to answer them.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "50" : {
+            "alpha" : "aws",
+            "prefix" : "AWS",
+            "header" : "AWS",
+            "copy" : "Amazon Web Services (AWS) is a subsidiary of Amazon.com that provides on-demand cloud computing platforms to individuals, companies and governments, on a paid subscription basis with a free-tier option available for 12 months. The technology allows subscribers to have at their disposal a full-fledged virtual cluster of computers, available all the time, through the internet. AWS's version of virtual computers have most of the attributes of a real computer including hardware (CPU(s) & GPU(s) for processing, local/RAM memory, hard-disk/SSD storage); a choice of operating systems; networking; and pre-loaded application software such as web servers, databases, CRM, etc. Each AWS system also virtualizes its console I/O (keyboard, display, and mouse), allowing AWS subscribers to connect to their AWS system using a modern browser.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "51" : {
+            "alpha" : "a",
+            "prefix" : "A",
+            "header" : "Axure",
+            "copy" : "A wire framing and interactive prototyping tool, available for both Windows and Mac.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "52" : {
+            "alpha" : "bm",
+            "prefix" : "BM",
+            "header" : "Balsamiq Mockups",
+            "copy" : "A wire framing and interactive prototyping tool, available for both Windows and Mac.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "53" : {
+            "alpha" : "b",
+            "prefix" : "B",
+            "header" : "Bandwidth",
+            "copy" : "the transmission rate of a communications line or system, expressed as kilobits per second (kbps) or megabits per second (Mbps) for digital systems; the amount of data that can be transmitted over communications lines in a given time.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "54" : {
+            "alpha" : "b",
+            "prefix" : "B",
+            "header" : "Banner",
+            "copy" : "A graphic advertising image displayed on a Web page.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "55" : {
+            "alpha" : "b",
+            "prefix" : "B",
+            "header" : "Beta",
+            "copy" : "a test version of a product, such as a Web site or software, prior to final release.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "56" : {
+            "alpha" : "bl",
+            "prefix" : "BL",
+            "header" : "Beta Launch",
+            "copy" : "The limited launch of a software product with the goal of finding bugs before final launch. ",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "57" : {
+            "alpha" : "bt",
+            "prefix" : "BT",
+            "header" : "Behavioral Targeting",
+            "copy" : "A technique used by online publishers and advertisers to increase the effectiveness of their campaigns. Behavioral targeting uses information collected on an individual's web browsing behaviour such as the pages they have visited or the searches they have made to select which advertisements to be displayed to that individual. Practitioners believe this helps them deliver their online advertisements to the users who are most likely to be influenced by them.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "58" : {
+            "alpha" : "bd",
+            "prefix" : "BD",
+            "header" : "Big Data",
+            "copy" : "Big data has been a big trend and buzz word for a number of years now, and what this term is referring to are enormous data sets that can be analysed through technology to reveal trends, patterns and associations. In the customer experience world, we are usually looking at a customer’s behavioral and transactional data in order to understand their motivations. For example, in a customer experience management program, you would want to marry up transactional data with customer feedback data to understand how different variables impact upon a customer’s experience. This is a good way to uncover trends around purchasing behavior and motivation.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "59" : {
+            "alpha" : "b",
+            "prefix" : "B",
+            "header" : "Bitmap",
+            "copy" : "In computing, a bitmap is a mapping from some domain (for example, a range of integers) to bits, that is, values which are zero or one. It is also called a bit array or bitmap index. Bitmap image downsampled from an Inkscape vectorial image In computer graphics, when the domain is a rectangle (indexed by two coordinates) a bitmap gives a way to store a binary image, that is, an image in which each pixel is either black or white (or any two colors).",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "60" : {
+            "alpha" : "bmp",
+            "prefix" : "BMP",
+            "header" : "BMP",
+            "copy" : "The BMP file format, also known as bitmap image file or device independent bitmap (DIB) file format or simply a bitmap, is a raster graphics image file format used to store bitmap digital images, independently of the display device (such as a graphics adapter), especially on Microsoft Windows and OS/2 operating systems.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "61" : {
+            "alpha" : "b",
+            "prefix" : "B",
+            "header" : "Bitrate",
+            "copy" : "Measured in bits per second (Mbps or kbps), the bitrate measures the amount of ‘bits’ which are displayed in each second of an exported video file. In the most basic terms, a higher bitrate equals higher quality and a larger file size, though much like other export settings the visual difference between bitrates is limited after a certain point by the amount of bits in your source file and the resolution of your export file (see R: Resolution). Bitrates may be constant (CBR) or variable (VBR) with one or two render passes, with a two-pass VBR generally considered the higher quality, but with longer rendering times. Depending on the chosen video file format, you may be able to set a target bitrate and a maximum bitrate, or simply limit the maximum bitrate, in the export settings for your animation. Finding the right balance between a good quality bitrate with smaller file size and less render time can be a trial-and-error process, as individual animations will have different quality requirements and therefore demand different export settings.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "62" : {
+            "alpha" : "b",
+            "prefix" : "B",
+            "header" : "Blog",
+            "copy" : "Generic name for any Website featuring regular posts arranged chronologically, typically inviting public comments from readers.  Blog postings are generally short and informal, and blog software is generally free and very easy for individual users, making it a popular tool for online diaries as well as more professional publications.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "63" : {
+            "alpha" : "bi",
+            "prefix" : "BI",
+            "header" : "Bonus impressions",
+            "copy" : "Additional ad impressions above the commitments outlined in the approved insertion order.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "64" : {
+            "alpha" : "br",
+            "prefix" : "BR",
+            "header" : "Bounce Rate",
+            "copy" : "A bounce is a website visit in which the visitor looked only at the single page they landed on, did not interact with it, and then left the site. The bounce rate expresses such visits as a percentage of the total visitor sessions, within a specific time frame.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "65" : {
+            "alpha" : "b",
+            "prefix" : "B",
+            "header" : "Branding",
+            "copy" : "The process of creating and marketing a consistent idea or image of a product, so that it is recognisable by the public.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "66" : {
+            "alpha" : "ba",
+            "prefix" : "BA",
+            "header" : "Brand Awareness",
+            "copy" : "The extent or level to which a potential consumer can recall and identify a particular product or service. Increased brand awareness is one of the two customary important goals for a digital advertising campaign (the other being a conversion of some kind).",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "67" : {
+            "alpha" : "ba",
+            "prefix" : "BA",
+            "header" : "Brand Advocate",
+            "copy" : "These are your biggest fans — the customers who talk up your products to friends and family members and help you get powerful word of mouth advertising. Companies may pay or recruit people to act as brand advocates for them, but providing excellent customer service can do the trick too. This is because brand advocacy starts from the first interaction a customer has with a company, then every interaction after that. When customers have overwhelmingly positive interactions with your brand and people, companies create opportunities to create brand advocates.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "68" : {
+            "alpha" : "b",
+            "prefix" : "B",
+            "header" : "Breakpoints",
+            "copy" : "The points at which a website’s content will adjust to provide the user with the best possible layout to view content. In responsive design (see term below), breakpoints are often defined by device widths that are being targeted.  These are typically smart phone (usually at 320px and 480px), tablet (768px and 1024px) and anything above 1024px.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "69" : {
+            "alpha" : "b",
+            "prefix" : "B",
+            "header" : "Broadband",
+            "copy" : "An Internet connection that delivers a relatively high bit rate",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "70" : {
+            "alpha" : "b",
+            "prefix" : "B",
+            "header" : "Browser",
+            "copy" : "A software program with a graphical interface that people use to navigate all the information available on the World Wide Web. Examples include Firefox, Chrome, and Internet Explorer.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "71" : {
+            "alpha" : "b",
+            "prefix" : "B",
+            "header" : "Bugs",
+            "copy" : "Software bugs are errors and failures in a software that cause unexpected results for users and may lead to problems further down the line. Multiple complaints about the same thing might mean your development team needs to implement some bug fixes. But customer support managers and teams need to beware: not all bugs are really bugs. Promising fixes that you might not deliver can lead to even more frustration. Promise instead to investigate and follow up with them when you have more information.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "72" : {
+            "alpha" : "b",
+            "prefix" : "B",
+            "header" : "Button",
+            "copy" : "1) clickable graphic that contains certain functionality, such as taking one someplace or executing a program; 2) buttons can also be ads.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "73" : {
+            "alpha" : "bd",
+            "prefix" : "BD",
+            "header" : "Business Drivers",
+            "copy" : "These have a major impact on the performance of your business. These can be a resource, process or condition that is vital for the continued success and growth of a business. Business drivers vary from business to business and can be influenced by both internal and external factors.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "74" : {
+            "alpha" : "br",
+            "prefix" : "BR",
+            "header" : "Business Rule",
+            "copy" : "Even as a Helpdesk enables you to provide awesome support, it can maintain the support processes and prevent agent frustration by doing the incredibly boring and exhausting work, automatically. You just need to set up rules that are invoked based on ticket contents or properties, rules that perform the actions you need. Rules can assign tickets to right agents, perform actions based on ticket properties, send out email notifications, or even trigger web hook calls based on events. This way, agents can concentrate on making customers happy and not cleaning up stray tickets. Business rules will also help you monitor the quality of agents and the support experience. They can be used to automatically send escalation emails to support managers when an agent receives a bad satisfaction rating or when SLA is violated in a ticket raised by an important customer.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "75" : {
+            "alpha" : "b",
+            "prefix" : "B",
+            "header" : "Byte",
+            "copy" : "The byte (/ˈbaɪt/) is a unit of digital information that most commonly consists of eight bits. Historically, the byte was the number of bits used to encode a single character of text in a computer and for this reason it is the smallest addressable unit of memory in many computer architectures. The size of the byte has historically been hardware dependent and no definitive standards existed that mandated the size – byte-sizes from 1 to 48 bits are known to have been used in the past. The modern de-facto standard of eight bits, as documented in ISO/IEC 2382-1:1993, is a convenient power of two permitting the values 0 through 255 for one byte. The international standard IEC 80000-13 codified this common meaning. Many types of applications use information representable in eight or fewer bits and processor designers optimise for this common usage. The popularity of major commercial computing architectures has aided in the ubiquitous acceptance of the eight-bit size.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "76" : {
+            "alpha" : "c",
+            "prefix" : "C",
+            "header" : "C",
+            "copy" : "Arguably, the daddy of modern coding languages is C. C has been around since 1972, and although it’s not easy to learn, it’s extremely powerful. C is a compiled language and the lowest-level of all the languages listed here. It’s readily built into nearly every operating system. C is used in a range of areas and platforms, including Microsoft Windows and much of its software. C is truly an all-rounder coding language.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "77" : {
+            "alpha" : "c",
+            "prefix" : "C++",
+            "header" : "C++",
+            "copy" : "C++ is an enhanced version of C that adds the object-oriented paradigm. It was created by Bjarne Stroustrup in 1979. C++ is a compiled language and runs on multiple hardware platforms. Most computer games are written in C++. The language also accompanies C in the source code of Microsoft Windows and accompanying software.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "78" : {
+            "alpha" : "c",
+            "prefix" : "C",
+            "header" : "Cache",
+            "copy" : "Memory used to temporarily store the most frequently requested content/files/pages in order to speed its delivery to the user. Caches can be local (i.e. on a browser) or on a network. In the case of local cache, most computers have both memory (RAM), and disk (hard drive) cache.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "79" : {
+            "alpha" : "cb",
+            "prefix" : "CB",
+            "header" : "Cache busting",
+            "copy" : "The process by which sites or servers serve content or HTML in such a manner as to minimise or prevent browsers or proxies from serving content from their cache. This forces the user or proxy to fetch a fresh copy for each request.  Among other reasons, cache busting is used to provide a more accurate count of the number of requests from users.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "80" : {
+            "alpha" : "cai",
+            "prefix" : "CAI",
+            "header" : "Cached ad impressions",
+            "copy" : "The delivery of an advertisement to a browser from local cache or a proxy server's cache. When a user requests a page that contains a cached ad, the ad is obtained from the cache and displayed.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "81" : {
+            "alpha" : "c",
+            "prefix" : "C",
+            "header" : "Caching",
+            "copy" : "The process of copying a Web element (page or ad) for later reuse. On the Web, this copying is normally done in two places: in the user's browser and on proxy servers. When a user makes a request for a Web element, the browser looks into its own cache for the element; then a proxy, if any; followed by the intended server. Caching is done to reduce redundant network traffic, resulting in increased overall efficiency of the Internet.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "82" : {
+            "alpha" : "cs",
+            "prefix" : "CS",
+            "header" : "Card Sorting",
+            "copy" : "A technique using either actual cards or software, whereby users generate an information hierarchy that can then form the basis of an information architecture or navigation menu.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "83" : {
+            "alpha" : "cgi",
+            "prefix" : "GGI",
+            "header" : "GGI",
+            "copy" : "Computer-generated imagery (CGI) is the application of computer graphics to create or contribute to images in art, printed media, video games, films, television programs, shorts, commercials, videos, and simulators. The visual scenes may be dynamic or static and may be two-dimensional (2D), though the term 'CGI' is most commonly used to refer to 3D computer graphics used for creating scenes or special effects in films and television. Additionally, the use of 2D CGI is often mistakenly referred to as 'traditional animation', most often in the case when dedicated animation software such as Adobe Flash or Toon Boom is not used or the CGI is hand drawn using a tablet and mouse.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "84" : {
+            "alpha" : "c",
+            "prefix" : "C",
+            "header" : "Chat",
+            "copy" : "Online interactive communication between two or more people on the Web. One can talk in real time with other people in a chat room, typically by typing, though voice chat is available.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "85" : {
+            "alpha" : "cr",
+            "prefix" : "CR",
+            "header" : "Chat Room",
+            "copy" : "an area online where people can communicate with others in real-time.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "86" : {
+            "alpha" : "c",
+            "prefix" : "C",
+            "header" : "Channels",
+            "copy" : "Customer service channels are the ways in which customers contact you to get service and support. These include social media, phone calls, emails, chats, and self-service tools. Unified customer support platforms like salesforce bring all of these channels into one place, so your service agents can get full pictures of who is contacting your company and why. The email and phone channels are still the most popular methods, but live chat, social media, and self-service tools are gaining traction. Tracking the use of these channels can shed light on how your customers prefer to get service.You can measure which channel is used most by analysing where the majority of inbound support requests come from.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "87" : {
+            "alpha" : "c",
+            "prefix" : "C",
+            "header" : "Churn",
+            "copy" : "Churn (sometimes referred to as an attrition rate) is the proportion of customers who stop using your service or product in a certain time frame. This metric is calculated by dividing the customers lost by the number you started with over a certain period of time (usually during a given month, quarter or year). It goes hand-in-hand with your Customer Retention rate, so if you have a 10% attrition rate, you’ll have a 90% retention rate, and vice versa. Calculating churn is key for determining how much ground your sales team needs to cover to offset losses, as well as what your business might be doing wrong (or right) that contributes to a high (or low) attrition rate. It helps identify whether you’re retaining enough customers in order sustain growth. You can look at the details and see what is causing churn. For example: Are customers churning at a specific time? What size accounts are more likely to churn? Are there patterns that lead to churn?",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "88" : {
+            "alpha" : "cr",
+            "prefix" : "CR",
+            "header" : "Click Rate",
+            "copy" : "Ratio of ad clicks to ad impressions.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "89" : {
+            "alpha" : "c",
+            "prefix" : "C",
+            "header" : "Clicks",
+            "copy" : "1) metric which measures the reaction of a user to an Internet ad. There are three types of clicks: click-throughs; in-unit clicks; and mouseovers; 2) the opportunity for a user to download another file by clicking on an advertisement, as recorded by the server; 3) the result of a measurable interaction with an advertisement or key word that links to the advertiser's intended Web site or another page or frame within the Web site; 4) metric which measures the reaction of a user to linked editorial content. See also, click-through, in-unit clicks and mouseover.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "90" : {
+            "alpha" : "cf",
+            "prefix" : "CF",
+            "header" : "Click Fraud",
+            "copy" : "Click fraud is a type of internet crime that occurs in pay per click online advertising when a person, automated script, or computer program imitates a legitimate user of a web browser clicking on an ad, for the purpose of generating a charge per click without having actual interest in the target of the ad's link.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "91" : {
+            "alpha" : "cs",
+            "prefix" : "CS",
+            "header" : "Click-stream",
+            "copy" : "1) the electronic path a user takes while navigating from site to site, and from page to page within a site; 2) a comprehensive body of data describing the sequence of activity between a user's browser and any other Internet resource, such as a Web site or third party ad server.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "92" : {
+            "alpha" : "ct",
+            "prefix" : "CT",
+            "header" : "Click-through",
+            "copy" : "The action of following a link within an advertisement or editorial content to another Web site or another page or frame within the Web site. Ad click-throughs should be tracked and reported as a 302 redirect at the ad server and should filter out robotic activity.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "93" : {
+            "alpha" : "ctr",
+            "prefix" : "CTR",
+            "header" : "Click-through Rate (CTR)",
+            "copy" : "Expressed as a percentage of total impressions, this statistic shows how often people who are served an ad end up clicking on it. An ad’s CTR is calculated by dividing the number of clicks an ad received by the number of times it’s been served, then converting that into a percentage. For example, if an ad received 5 clicks and was shown 1000 times, the CTR is 0.5%. The higher the CTR on an ad, the better it’s performing.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "94" : {
+            "alpha" : "cw",
+            "prefix" : "CW",
+            "header" : "Click-within",
+            "copy" : "Similar to click down or click. But more commonly, click-withins are ads that allow the user to drill down and click, while remaining in the advertisement, not leaving the site on which they are residing.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "95" : {
+            "alpha" : "clf",
+            "prefix" : "CLF",
+            "header" : "Closed Loop Feedback",
+            "copy" : "Closed loop feedback is the process in which you follow up with customers after they complete a survey or feedback form. This process enables companies to continue the dialogue with a customer, instead of ending it abruptly. An important part of closed loop feedback is the ability and commitment to act on the feedback. Companies that utilise closed loop feedback programs gain more ROI from their customer experience management programs than their competitors through higher employee engagement, improved customer advocacy and loyalty, and strong financial returns.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "96" : {
+            "alpha" : "cms",
+            "prefix" : "CMS",
+            "header" : "Content Management System (CMS)",
+            "copy" : "Software that allows publishing, editing and maintaining content from a central interface. See also: Content management.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "97" : {
+            "alpha" : "cop",
+            "prefix" : "COP",
+            "header" : "Code of practice",
+            "copy" : "Professional organisations and trade groups put out codes of practice to dictate how their members should do business. Though they’re not as strict as say, government policies, not adhering to a code of practice can mean your company gets kicked out of an association or loses an accreditation. In customer support, codes of practice dictate how customers should be treated, how companies should respond to complaints, and how customers can contact businesses. By agreeing to adhere to a code of practice from a professional organisation and perhaps displaying that your business has accreditation or is a member of a group, your company makes a promise to its users that it will follow that group’s code of practice. For example, to receive Better Business Bureau accreditation in the U.S., companies promise to be transparent about how customers can contact the business and to clearly publish return policies, warranty information, and terms and conditions.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "98" : {
+            "alpha" : "c",
+            "prefix" : "C",
+            "header" : "Collaborators",
+            "copy" : "A collaborator is like a full agent, but has specific permissions for what they can do within any cms, crm or erp. They have all the access they need to communicate internally with other agents and access customer information, but can’t communicate externally with customers. The goals of collaborators are to break down silos across departments and create better conversations in a cms with collaborative private notes on cases and profiles.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "99" : {
+            "alpha" : "cd",
+            "prefix" : "CD",
+            "header" : "Collaborative design",
+            "copy" : "Inviting input from users, stakeholders and other project members.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "100" : {
+            "alpha" : "cd",
+            "prefix" : "CD",
+            "header" : "Colour Depth",
+            "copy" : "Refers to the setting which dictates the amount of potential colours available for use in the file. For programs that allow colour depth to be set within the working file (such as After Effects), this is measured in 8, 16, or 32 bits per channel (bpc). A higher bpc can mean a higher file size, but offers a smoother colour gradient especially in sequences with glows or lighting effects. domain check Depending on your chosen file format, colour depth can also be set on export, generally measured in millions or trillions of colours. A plus sign (+) next to the colour depth indicates the exported file is capable of holding transparency information (see A: Alpha Channel).",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "101" : {
+            "alpha" : "ca",
+            "prefix" : "CA",
+            "header" : "Competitive Advantage",
+            "copy" : "The thing that sets you apart from everyone else in your corner of the market. Today, it’s worth turning your customer service into a competitive advantage. That is, adopting the right strategy and tools to give your customers the help they need, in the right place, at the right time. Building a customer experience that is effortless and personalised is the key to creating that advantage over your competition.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "102" : {
+            "alpha" : "ca",
+            "prefix" : "CA",
+            "header" : "Competitor Analysis",
+            "copy" : "Performing an audit or conducting user testing of competing websites and apps; writing a report that summarises the competitive landscape.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "103" : {
+            "alpha" : "ca",
+            "prefix" : "CA",
+            "header" : "Comparative Analysis",
+            "copy" : "Performing an item by item comparison of two or more websites or apps to determine trends or patterns.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "104" : {
+            "alpha" : "c",
+            "prefix" : "C",
+            "header" : "Conversations",
+            "copy" : "Conversations are the center of your support team’s universe. They function as records of customer issues. Once they’re filled out and submitted by the client, conversations are then assigned to a member of the support team. They’re given priority levels to help support staff respond according to urgency, and they’re typically assigned by expertise and workload. In salesforce, conversations are labelled in the simplest way to help support teams deal with their customers. Open conversation, Overdue conversation, Pending conversation, Reopen conversation, Resolved conversation, Unassigned conversation.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "105" : {
+            "alpha" : "ca",
+            "prefix" : "CA",
+            "header" : "Content Audit",
+            "copy" : "Reviewing and cataloguing a client’s existing repository of content.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "106" : {
+            "alpha" : "ci",
+            "prefix" : "CI",
+            "header" : "Content Integration",
+            "copy" : "Advertising woven into editorial content or placed in a contextual envelope. Also known as 'Web advertorial'.",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "107" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "108" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "109" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "110" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "111" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "112" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "113" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "114" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "115" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "116" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "117" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "118" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "119" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "120" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "121" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "122" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "123" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "124" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "125" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "126" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "127" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "128" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "129" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "130" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "131" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "132" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "133" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "134" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "135" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "136" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "137" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "138" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "139" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "140" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "141" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "142" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "143" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "144" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "145" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "146" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "147" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "148" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "149" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
+        },
+        "150" : {
+            "alpha" : "",
+            "prefix" : "",
+            "header" : "",
+            "copy" : "",
+            "userContributed" : false,
+            "userID" : ""
         }
     }
 }
