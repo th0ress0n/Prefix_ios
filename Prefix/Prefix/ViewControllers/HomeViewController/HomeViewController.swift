@@ -43,7 +43,7 @@ class HomeViewController: UIViewController, UITableViewDelegate,UITableViewDataS
         ref.observe(.value, with: { snapshot in
 
             for child in snapshot.children {
-                let ar: Array<PrefixItem>!
+                var ar: Array<PrefixItem>!
                 ar = []
                 
                 if let snapshot = child as? DataSnapshot {
